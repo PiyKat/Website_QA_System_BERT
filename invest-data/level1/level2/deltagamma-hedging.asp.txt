@@ -1,0 +1,28 @@
+What is Delta - Gamma Hedging ? . Delta - gamma hedging is an options strategy that combines both delta and gamma hedges to mitigate the risk of changes in the underlying asset and in delta itself .
+--------------------------
+What is Delta - Gamma Hedging ? . In options trading , delta refers to a change in the price of an option contract per change in the price of the underlying asset . Gamma refers to the rate of change of delta .
+--------------------------
+Understanding Delta - Gamma Hedging . Both delta and gamma help to gauge movement in an option ’s price relative to how in - the - money ( ITM ) or out - of - the - money ( OTM ) the option is . Traders hedge delta to limit the risk of small price movements in the underlying security , and hedge gamma to protect themselves from the remaining exposure created through the use of a delta hedge . In other words , hedging gamma should have the effect of protecting the trader 's position from movement in the option 's delta .
+--------------------------
+Understanding Delta - Gamma Hedging . Delta moves between -1 and +1 . Call options have deltas between 0 and 1 , while put options have deltas between 0 and -1 . When delta changes , gamma is approximately the difference between the two delta values . Further out - of - the - money options have deltas that tend toward zero . Further in - the - money options have deltas that tend toward 1 ( call ) or -1 ( put ) .
+--------------------------
+Defining Individual Hedges . Delta hedging aims to reduce , or hedge , the risk associated with price movements in the underlying asset by taking offsetting long and short positions . For example , a long call position may be delta - hedged by shorting the underlying stock . This strategy is based on the change in premium , or price of option , caused by a change in the price of the underlying security .
+--------------------------
+Defining Individual Hedges . Delta itself measures the theoretical change in premium for each $ 1 change in the price of the underlying . Gamma hedging attempts to reduce , or eliminate , the risk created by changes in an option 's delta .
+--------------------------
+Defining Individual Hedges . Gamma itself refers to the rate of change of an option 's delta with respect to the change in price of the underlying asset . Essentially , gamma is the rate of change of the price of an option . A trader who is trying to be delta - hedged or delta - neutral is usually making a trade that volatility will rise or fall in the future . Gamma hedging is added to a delta - hedged strategy to try and protect a trader from larger changes in the portfolio than expected , or time value erosion .
+--------------------------
+Using a Delta - Gamma Hedge . With delta hedging alone , a position has protection from small changes in the underlying asset . However , large changes will change the hedge ( change delta ) leaving the position vulnerable . By adding a gamma hedge , the delta hedge remains intact .
+--------------------------
+Using a Delta - Gamma Hedge . Using a gamma hedge in conjunction with a delta hedge requires an investor to create new hedges when the underlying asset ’s delta changes . The number of underlying shares that are bought or sold under a delta - gamma hedge depends on whether the underlying asset price is increasing or decreasing , and by how much .
+--------------------------
+Using a Delta - Gamma Hedge . Large hedges that involve buying or selling significant quantities of shares and options may have the effect of changing the price of the underlying asset on the market , requiring the investor to constantly and dynamically create hedges for a portfolio to take into account greater fluctuations in prices .
+--------------------------
+Example of Delta - Gamma Hedging Using the Underlying Stock . Assume a trader is long one call of a stock , and the option has a delta of 0.6 . That means that for each $ 1 the stock price moves up or down , the option premium will increase or decrease $ 0.60 , respectively . To hedge the delta , the trader needs to short 60 shares of stock ( one contract x 100 shares x 0.6 delta ) . Being short 60 shares neutralizes the effect of the positive 0.6 delta .
+--------------------------
+Example of Delta - Gamma Hedging Using the Underlying Stock . As the price of the stock changes , so will the delta . At - the - money options have a delta near 0.5 . The deeper in - the - money an option goes , the closer delta gets to one . The deeper out - of - the - money an option goes , the closer it gets to zero .
+--------------------------
+Example of Delta - Gamma Hedging Using the Underlying Stock . Assume that the gamma on this position is 0.2 . That means that for each dollar change in the stock , the delta changes by 0.2 . To offest the change in delta ( gamma ) the prior delta hedge needs to be adjusted . If delta increases by 0.2 , then delta is now 0.8 . That means the trader needs 80 short shares to offset delta . They already shorted 60 , so they need to short 20 more . If delta decreased by 0.2 , the delta is now 0.4 , so the trader only needs 40 shares short . They have 60 , so they can buy 20 shares back .
+--------------------------
+Example of Delta - Gamma Hedging Using the Underlying Stock . Gamma hedging is essentially constantly readjusting the delta hedge as delta changes ( gamma ) .
+--------------------------

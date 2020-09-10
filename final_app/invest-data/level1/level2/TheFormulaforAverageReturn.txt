@@ -1,0 +1,1 @@
+ The Formula for Average Return . ﻿Average Return=Sum of ReturnsNumber of Returns\text{Average Return} = \dfrac{\text{Sum of Returns}}{\text{Number of Returns}}Average Return=Number of ReturnsSum of Returns​﻿

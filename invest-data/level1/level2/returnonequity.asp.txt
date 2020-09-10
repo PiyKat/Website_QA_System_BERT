@@ -1,0 +1,64 @@
+What Is Return on Equity – ROE ? . Return on equity ( ROE ) is a measure of financial performance calculated by dividing net income by shareholders ' equity . Because shareholders ' equity is equal to a company ’s assets minus its debt , ROE could be thought of as the return on net assets .
+--------------------------
+What Is Return on Equity – ROE ? . ROE is considered a measure of how effectively management is using a company ’s assets to create profits .
+--------------------------
+Formula and Calculation for ROE . ROE is expressed as a percentage and can be calculated for any company if net income and equity are both positive numbers . Net income is calculated before dividends paid to common shareholders and after dividends to preferred shareholders and interest to lenders .
+--------------------------
+Formula and Calculation for ROE . ﻿Return on Equity = Net IncomeAverage Shareholders ’ Equity\begin{aligned } & \text{Return on Equity } = \dfrac{\text{Net Income}}{\text{Average Shareholders ' Equity}}\\ \end{aligned}​Return on Equity = Average Shareholders ’ EquityNet Income​​﻿
+--------------------------
+Formula and Calculation for ROE . Net Income is the amount of income , net of expense , and taxes that a company generates for a given period . Average Shareholders ' Equity is calculated by adding equity at the beginning of the period . The beginning and end of the period should coincide with that which the net income is earned .
+--------------------------
+Formula and Calculation for ROE . Net income over the last full fiscal year , or trailing 12 months , is found on the income statement — a sum of financial activity over that period . Shareholders ' equity comes from the balance sheet — a running balance of a company ’s entire history of changes in assets and liabilities .
+--------------------------
+Formula and Calculation for ROE . It is considered the best practice to calculate ROE based on average equity over the period because of this mismatch between the two financial statements . Learn more about how to calculate ROE .
+--------------------------
+What Does ROE Tell You ? . Return on equity ( ROE ) deemed good or bad will depend on what ’s normal for a stock ’s peers . For example , utilities will have a lot of assets and debt on the balance sheet compared to a relatively small amount of net income . A normal ROE in the utility sector could be 10 % or less . A technology or retail firm with smaller balance sheet accounts relative to net income may have normal ROE levels of 18 % or more .
+--------------------------
+What Does ROE Tell You ? . A good rule of thumb is to target an ROE that is equal to or just above the average for the peer group . For example , assume a company , TechCo , has maintained a steady ROE of 18 % over the last few years compared to the average of its peers , which was 15 % . An investor could conclude that TechCo ’s management is above average at using the company ’s assets to create profits .
+--------------------------
+What Does ROE Tell You ? . Relatively high or low ROE ratios will vary significantly from one industry group or sector to another . When used to evaluate one company to another similar company the comparison will be more meaningful . A common shortcut for investors to consider a return on equity near the long - term average of the S&P 500 ( 14 % ) as an acceptable ratio and anything less than 10 % as poor .
+--------------------------
+Using ROE to Estimate Growth Rates . Sustainable growth rates and dividend growth rates can be estimated using ROE assuming that the ratio is roughly in line or just above its peer group average . Although there may be some challenges , ROE can be a good starting place for developing future estimates of a stock ’s growth rate and the growth rate of its dividends . These two calculations are functions of each other and can be used to make an easier comparison between similar companies .
+--------------------------
+Using ROE to Estimate Growth Rates . To estimate a company ’s future growth rate , multiply ROE by the company ’s retention ratio . The retention ratio is the percentage of net income that is “ retained ” or reinvested by the company to fund future growth .
+--------------------------
+ROE and Sustainable Growth Rate . Assume that there are two companies with an identical ROE and net income , but different retention ratios . Company A has an ROE of 15 % and returns 30 % of its net income to shareholders in a dividend , which means company A retains 70 % of its net income . Business B also has an ROE of 15 % but returns only 10 % of its net income to shareholders for a retention ratio of 90 % .
+--------------------------
+ROE and Sustainable Growth Rate . For company A , the growth rate is 10.5 % , or ROE times the retention ratio , which is 15 % times 70 % . business B 's growth rate is 13.5 % , or 15 % times 90 % .
+--------------------------
+ROE and Sustainable Growth Rate . This analysis is referred to as the sustainable growth rate model . Investors can use this model to make estimates about the future and to identify stocks that may be risky because they are running ahead of their sustainable growth ability . A stock that is growing slower than its sustainable rate could be undervalued , or the market may be discounting risky signs from the company . In either case , a growth rate that is far above or below the sustainable rate warrants additional investigation .
+--------------------------
+ROE and Sustainable Growth Rate . This comparison seems to make business B look more attractive than company A , but it ignores the advantages of a higher dividend rate that may be favored by some investors . We can modify the calculation to make an estimate of the stock ’s dividend growth rate which may be more important to income investors .
+--------------------------
+Estimating the Dividend Growth Rate . Continuing with our example from above , the dividend growth rate can be estimated by multiplying ROE by the payout ratio . The payout ratio is the percentage of net income that is returned to common shareholders through dividends . This formula gives us a sustainable dividend growth rate , which favors company A.
+--------------------------
+Estimating the Dividend Growth Rate . The company A dividend growth rate is 4.5 % , or ROE times payout ratio , which is 15 % times 30 % . Business B 's dividend growth rate is 1.5 % , or 15 % times 10 % . A stock that is growing its dividend far above or below the sustainable dividend growth rate may indicate risks that need to be investigated .
+--------------------------
+Using ROE to Identify Problems . It ’s reasonable to wonder why an average or slightly above average ROE is good rather than an ROE that is double , triple , or even higher the average of their peer group . Are n’t stocks with a very high ROE a better value ?
+--------------------------
+Using ROE to Identify Problems . Sometimes an extremely high ROE is a good thing if net income is extremely large compared to equity because a company ’s performance is so strong . However , more often an extremely high ROE is due to a small equity account compared to net income , which indicates risk .
+--------------------------
+Using ROE to Identify Problems . The first potential issue with a high ROE could be inconsistent profits . Imagine a company , LossCo , that has been unprofitable for several years . Each year ’s losses are on the balance sheet in the equity portion as a “ retained loss . ” The losses are a negative value and reduce shareholder equity . Assume that LossCo has had a windfall in the most recent year and has returned to profitability . The denominator in the ROE calculation is now very small after many years of losses which makes its ROE misleadingly high .
+--------------------------
+Using ROE to Identify Problems . Second is excess debt . If a company has been borrowing aggressively , it can increase ROE because equity is equal to assets minus debt . The more debt a company borrows , the lower equity can fall . A common scenario that can cause this issue occurs when a company borrows large amounts of debt to buy back its own stock . This can inflate earnings per share ( EPS ) , but it does n’t affect actual growth rates or performance .
+--------------------------
+Using ROE to Identify Problems . Finally , there ’s negative net income and negative shareholder equity that can lead to an artificially high ROE . However , if a company has a net loss or negative shareholders ’ equity , ROE should not be calculated .
+--------------------------
+Using ROE to Identify Problems . If shareholders ’ equity is negative , the most common issue is excessive debt or inconsistent profitability . However , there are exceptions to that rule for companies that are profitable and have been using cash flow to buy back their own shares . For many companies , this is an alternative to paying dividends and it can eventually reduce equity ( buybacks are subtracted from equity ) enough to turn the calculation negative .
+--------------------------
+Using ROE to Identify Problems . In all cases , negative or extremely high ROE levels should be considered a warning sign worth investigating . In rare cases , a negative ROE ratio could be due to a cash flow supported share buyback program and excellent management , but this is the less likely outcome . In any case , a company with a negative ROE can not be evaluated against other stocks with positive ROE ratios .
+--------------------------
+ROE vs. Return on Invested Capital . While return on equity looks at how much in profit a company can generate relative to shareholders ’ equity , return on invested capital ( ROIC ) takes that calculation a couple of steps further .
+--------------------------
+ROE vs. Return on Invested Capital . The purpose of ROIC is to figure out the amount of money after dividends a company makes based on all its sources of capital , which includes shareholders equity and debt . ROE looks at how well a company utilizes shareholder equity , while ROIC is meant to determine how well a company uses all its available capital to make money .
+--------------------------
+Limitations of Using ROE . A high return on equity might not always be positive . An outsized ROE can be indicative of a number of issues — such as inconsistent profits or excessive debt . As well , a negative ROE , due to the company having a net loss or negative shareholders ’ equity , can not be used to analyze the company . Nor can it be used to compare against companies with a positive ROE .
+--------------------------
+Example of How to Use ROE . For example , imagine a company with an annual income of $ 1,800,000 and average shareholders ' equity of $ 12,000,000 . This company ’s ROE would be as follows :
+--------------------------
+Example of How to Use ROE . ﻿ROE=($1,800,000$12,000,000)=15%ROE=\left(\frac{\$1,800,000}{\$12,000,000}\right ) = 15\%ROE=($12,000,000$1,800,000​)=15%﻿
+--------------------------
+Example of How to Use ROE . Consider Apple Inc. ( AAPL)—for the fiscal year ending Sept. 29 , 2018 , the company generated US$ 59.5 billion in net come . At the end of the fiscal year , it ’s shareholders ’ equity was $ 107.1 billion versus $ 134 billion at the beginning . Apple ’s return on equity , therefore , is 49.4 % , or $ 59.5 billion / ( ( $ 107.1 billion + $ 134 billion ) / 2 ) .
+--------------------------
+Example of How to Use ROE . Compared to its peers , Apple has a very strong ROE .
+--------------------------

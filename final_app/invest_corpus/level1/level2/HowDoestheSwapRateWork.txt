@@ -1,0 +1,1 @@
+ How Does the Swap Rate Work? . Swap rates are applied to different types of swaps. An interest rate swap refers to the exchange of a floating interest rate for a fixed interest rate. A currency swap refers to the exchange of interest payments in one currency for those in another currency. In both types of transactions, the fixed element is referred to as the swap rate.

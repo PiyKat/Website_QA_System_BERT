@@ -1,0 +1,1 @@
+Physical Delivery Defined . Physical delivery is a term in an options or futures contract which requires the actual underlying asset to be delivered upon the specified delivery date, rather than being traded out with offsetting contracts.

@@ -1,0 +1,1 @@
+ Understanding Vomma . Vomma and vega are two factors involved in understanding and identifying profitable option trades. The two work together in providing detail on an option's price and the option price’s sensitivity to market changes. They can influence the sensitivity and interpretation of the Black-Scholes pricing model for option pricing.

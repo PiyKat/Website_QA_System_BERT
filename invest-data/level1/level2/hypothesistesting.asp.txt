@@ -1,0 +1,14 @@
+What Is Hypothesis Testing ? . Hypothesis testing is an act in statistics whereby an analyst tests an assumption regarding a population parameter . The methodology employed by the analyst depends on the nature of the data used and the reason for the analysis . Hypothesis testing is used to infer the result of a hypothesis performed on sample data from a larger population .
+--------------------------
+How Hypothesis Testing Works . In hypothesis testing , an analyst tests a statistical sample , with the goal of accepting or rejecting a null hypothesis . The test tells the analyst whether or not his primary hypothesis is true . If it is n't true , the analyst formulates a new hypothesis to be tested , repeating the process until data reveals a true hypothesis .
+--------------------------
+How Hypothesis Testing Works . Statistical analysts test a hypothesis by measuring and examining a random sample of the population being analyzed . All analysts use a random population sample to test two different hypotheses : the null hypothesis and the alternative hypothesis .
+--------------------------
+How Hypothesis Testing Works . The null hypothesis is the hypothesis the analyst believes to be true . Analysts believe the alternative hypothesis to be untrue , making it effectively the opposite of a null hypothesis . Thus , they are mutually exclusive , and only one can be true . However , one of the two hypotheses will always be true .
+--------------------------
+How Hypothesis Testing Works . All hypotheses are tested using a four - step process :
+--------------------------
+Real World Example of Hypothesis Testing . If , for example , a person wants to test that a penny has exactly a 50 % chance of landing on heads , the null hypothesis would be yes , and the alternative hypothesis would be no ( it does not land on heads ) . Mathematically , the null hypothesis would be represented as Ho : P = 0.5 . The alternative hypothesis would be denoted as " Ha " and be identical to the null hypothesis , except with the equal sign struck - through , meaning that it does not equal 50 % .
+--------------------------
+Real World Example of Hypothesis Testing . A random sample of 100 coin flips is taken from a random population of coin flippers , and the null hypothesis is then tested . If it is found that the 100 coin flips were distributed as 40 heads and 60 tails , the analyst would assume that a penny does not have a 50 % chance of landing on heads and would reject the null hypothesis and accept the alternative hypothesis . Afterward , a new hypothesis would be tested , this time that a penny has a 40 % chance of landing on heads .
+--------------------------

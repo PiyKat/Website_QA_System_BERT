@@ -1,0 +1,40 @@
+What Is Liquidity ? . Liquidity describes the degree to which an asset or security can be quickly bought or sold in the market at a price reflecting its intrinsic value . In other words : the ease of converting it to cash .
+--------------------------
+What Is Liquidity ? . Cash is universally considered the most liquid asset , while tangible assets , such as real estate , fine art , and collectibles , are all relatively illiquid . Other financial assets , ranging from equities to partnership units , fall at various places on the liquidity spectrum .
+--------------------------
+The Basics of Liquidity . Cash is considered the standard for liquidity because it can most quickly and easily be converted into other assets .
+--------------------------
+The Basics of Liquidity . If a person wants a $ 1,000 refrigerator , cash is the asset that can most easily be used to obtain it . If that person has no cash but a rare book collection that has been appraised at $ 1,000 , she is unlikely to find someone willing to trade them the refrigerator for their collection . Instead , she will have to sell the collection and use the cash to purchase the refrigerator . That may be fine if the person can wait for months or years to make the purchase , but it could present a problem if the person only had a few days . She / he may have to sell the books at a discount , instead of waiting for a buyer who was willing to pay the full value . Rare books are an example of an illiquid asset .
+--------------------------
+Market Liquidity . Market liquidity refers to the extent to which a market , such as a country 's stock market or a city 's real estate market , allows assets to be bought and sold at stable , transparent prices .
+--------------------------
+Market Liquidity . In the example above , the market for refrigerators in exchange for rare books is so illiquid that , for all intents and purposes , it does not exist . The stock market , on the other hand , is characterized by higher market liquidity . If an exchange has a high volume of trade that is not dominated by selling , the price a buyer offers per share ( the bid price ) and the price the seller is willing to accept ( the ask price ) will be fairly close to each other . Investors , then , will not have to give up unrealized gains for a quick sale . When the spread between the bid and ask prices grows , the market becomes more illiquid .
+--------------------------
+Market Liquidity . Markets for real estate are usually far less liquid than stock markets . The liquidity of markets for other assets , such as derivatives , contracts , currencies , or commodities , often depends on their size , and how many open exchanges exist for them to be traded on .
+--------------------------
+Accounting Liquidity . Accounting liquidity measures the ease with which an individual or company can meet their financial obligations with the liquid assets available to them — the ability to pay off debts as they come due . In the example above , the rare book collector 's assets are relatively illiquid and would probably not be worth their full value of $ 1,000 in a pinch .
+--------------------------
+Accounting Liquidity . In investment terms , assessing accounting liquidity means comparing liquid assets to current liabilities , or financial obligations that come due within one year . There are a number of ratios that measure accounting liquidity , which differ in how strictly they define " liquid assets . " Analysts and investors use these to identify companies with strong liquidity . It is also considered a measure of depth .
+--------------------------
+Measuring Accounting Liquidity . Generally , in using these formulas , a ratio greater than one is desirable .
+--------------------------
+Measuring Accounting Liquidity . The current ratio is the simplest and least strict . It measures current assets ( those that can reasonably be converted to cash in one year ) against current liabilities . Its formula would be :
+--------------------------
+Measuring Accounting Liquidity . Current Ratio = Current Assets / Current Liabilities
+--------------------------
+Measuring Accounting Liquidity . The acid - test or quick ratio is slightly more strict . It excludes inventories and other current assets , which are not as liquid as cash and cash equivalents , accounts receivable , and short - term investments . As a formula :
+--------------------------
+Measuring Accounting Liquidity . Acid - Test Ratio = ( Cash and Cash Equivalents + Short - Term Investments + Accounts Receivable ) / Current Liabilities
+--------------------------
+Measuring Accounting Liquidity . A variation of the acid - test ratio simply subtracts inventory from current assets , making it a bit more generous :
+--------------------------
+Measuring Accounting Liquidity . Acid - Test Ratio ( Var ) = ( Current Assets - Inventories - Prepaid Costs ) / Current Liabilities
+--------------------------
+Measuring Accounting Liquidity . The cash ratio is the most exacting of the liquidity ratios . Excluding accounts receivable , as well as inventories and other current assets , it defines liquid assets strictly as cash or cash equivalents . More than the current ratio or acid - test ratio , it assesses an entity 's ability to stay solvent in the case of an emergency — the worst - case scenario — on the grounds that even highly profitable companies can run into trouble if they do not have the liquidity to react to unforeseen events . Its formula :
+--------------------------
+Measuring Accounting Liquidity . Cash Ratio = ( Cash and Cash Equivalents + Short - Term Investments ) / Current Liabilities
+--------------------------
+Real World Example of Liquidity . In terms of investments , equities as a class are among the most liquid assets . But not all equities are created equal when it comes to liquidity . Some shares trade more actively than others on stock exchanges , meaning there is more of a market for them — they attract greater , more consistent interest from traders and investors , in other words . These liquid stocks are usually identifiable by their daily volume , which can number millions of shares , or even hundreds of millions .
+--------------------------
+Real World Example of Liquidity . For example , on April 26 , 2019 , 8.2 million shares of Amazon.com ( AMZN ) traded on the Nasdaq . Liquid as that sounds , it 's not a drop in the bucket compared to Intel ( INTC ) , which led the Nasdaq that day , with a volume of 71.5 million shares — or to Ford Motor ( F ) , which led the New York Stock Exchange with a volume of 154.8 million shares , making it the most liquid stock in the U.S. that day .
+--------------------------

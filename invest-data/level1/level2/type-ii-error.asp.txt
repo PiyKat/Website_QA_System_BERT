@@ -1,0 +1,20 @@
+What Is a Type II Error ? . A type II error is a statistical term referring to the non - rejection of a false null hypothesis . It is used within the context of hypothesis testing .
+--------------------------
+What Is a Type II Error ? . In statistical analysis , a type I error is the rejection of a true null hypothesis , whereas type II error describes the error that occurs when one fails to reject a null hypothesis that is actually false . In other words , it produces a false positive . The error rejects the alternative hypothesis , even though it does not occur due to chance .
+--------------------------
+Understanding Type II Errors . A type II error confirms an idea that should have been rejected , claiming the two observances are the same , even though they are different . A type II error does not reject the null hypothesis , even though the alternative hypothesis is the true state of nature . In other words , a false finding is accepted as true . A type II error is sometimes called a beta error .
+--------------------------
+Understanding Type II Errors . A type II error can be reduced by making more stringent criteria for rejecting a null hypothesis . For instance , if an analyst is considering anything that falls within a + /- 95 % confidence interval as statistically significant , by increasing that tolerance to + /- 99 % you reduce the chances of a false positive . However , doing so at the same time increases your chances of encountering a type I error . When conducting a hypothesis test , the probability or risk of making a type I error or type II error should be considered .
+--------------------------
+. Taking steps that reduce the chances of encountering a type II error tends to increase the chances of a type I error .
+--------------------------
+Differences Between Type I and Type II Errors . The difference between a type II error and a type I error is that a type I error rejects the null hypothesis when it is true ( a false negative ) . The probability of committing a type I error is equal to the level of significance that was set for the hypothesis test . Therefore , if the level of significance is 0.05 , there is a 5 % chance a type I error may occur .
+--------------------------
+Differences Between Type I and Type II Errors . The probability of committing a type II error is equal to one minus the power of the test , also known as beta . The power of the test could be increased by increasing the sample size , which decreases the risk of committing a type II error .
+--------------------------
+Example of a Type 2 Error . Assume a biotechnology company wants to compare how effective two of its drugs are for treating diabetes . The null hypothesis states the two medications are equally effective . A null hypothesis , H0 , is the claim that the company hopes to reject using the one - tailed test . The alternative hypothesis , Ha , states the two drugs are not equally effective . The alternative hypothesis , Ha , is the measurement that is supported by rejecting the null hypothesis .
+--------------------------
+Example of a Type 2 Error . The biotech company implements a large clinical trial of 3,000 patients with diabetes to compare the treatments . The company expects the two drugs to have an equal number of patients to indicate that both drugs are effective . It selects a significance level of 0.05 , which indicates it is willing to accept a 5 % chance it may reject the null hypothesis when it is true or a 5 % chance of committing a type I error .
+--------------------------
+Example of a Type 2 Error . Assume the beta is calculated to be 0.025 , or 2.5 % . Therefore , the probability of committing a type II error is 2.5 % . If the two medications are not equal , the null hypothesis should be rejected . However , if the biotech company does not reject the null hypothesis when the drugs are not equally effective , a type II error occurs .
+--------------------------

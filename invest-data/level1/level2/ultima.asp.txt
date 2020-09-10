@@ -1,0 +1,22 @@
+What is Ultima . Ultima is the rate at which the vomma of an option reacts to volatility in the underlying asset . It is a third order derivative of the option value with respect to volatility . Ultima is a derivative of vomma , which is a derivative of vega . Ultima is part of the group of measures known as the " Greeks " which are used in option pricing and analysis . Other measures include delta , gamma , rho , and theta .
+--------------------------
+Breaking Down Ultima . Ultima is useful to investors who are making options trades and taking the vomma and vega into consideration , especially when implementing exotic options which may change format prior to expiry . Implied volatility , and its derivatives , are some of the inputs utilized in the Black - Scholes model . Other pricing models include the binomial pricing model , and put / call parity .
+--------------------------
+Understanding Ultima . To understand ultima , it is helpful to back up to vega . Vega is the rate of change between the underlying asset 's implied volatility and the option 's value . A vega of 0.2 means the price of the option will move $ 0.20 for each 1 % change in implied volatility .
+--------------------------
+Understanding Ultima . Vomma is the derivative of vega . Vomma tells a trader if vega will increase or decrease in relation to implied volatility . A positive vomma means if volatility increases the option 's vega will increase , and if volatility falls then vega will decrease . A negative vomma indicates the opposite .
+--------------------------
+Understanding Ultima . Ultima is thus a measure of how vomma will change as volatility changes .
+--------------------------
+Ultima Calculation . The formula for ultima is shown in the image below .
+--------------------------
+Ultima Calculation . The calculation is looking at the rate of change of vomma over the rate of change in volatility .
+--------------------------
+Ultima Calculation . Assume that a call option has a vomma of three . This means vega will increase by three for each 1 % change in implied volatility .
+--------------------------
+Ultima Calculation . This is not static a static figure , though . As volatility rises or falls , the vega figure will also rise or fall . This is vomma . If vega is three but then increases to four on the next percentage rise in volatility , vomma is one .
+--------------------------
+Ultima Calculation . Recall that vomma can be positive or negative . A positive figure will increase / decrease vega if volatility rises / falls . A negative figure will decrease / increase vega if volatility rises / falls .
+--------------------------
+Ultima Calculation . As ultima relates to vomma , traders who own options look for high or increasing vomma , while those who are short will look for negative and decreasing vomma . Ultima can help determine if vomma is increasing or decreasing as volatility changes .
+--------------------------

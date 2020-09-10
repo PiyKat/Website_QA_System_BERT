@@ -1,0 +1,1 @@
+Gamma Hedging . Gamma hedging is a hedging strategy used in relation to options or other derivative products. In essence, the user of the delta hedging strategy aims to protect against the risk that the price of the derivative will become decoupled from the price of its underlying asset. Zomma is an important measurement in this context.

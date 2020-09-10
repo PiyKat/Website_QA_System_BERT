@@ -1,0 +1,14 @@
+Standard Deviation vs. Average Deviation : An Overview . While there are many different ways to measure variability within a set of data , two of the most popular are standard deviation and average deviation , also called the mean absolute deviation . Though similar , the calculation and interpretation of these two measurements differ in some key ways . Determining range and volatility is especially important in the finance industry , so professionals in areas such as accounting , investing , and economics should be very familiar with both concepts .
+--------------------------
+Standard Deviation . Standard deviation is the most common measure of variability and is frequently used to determine the volatility of stock markets or other investments . To calculate the standard deviation , you need to determine the variance :
+--------------------------
+Standard Deviation . Variance in itself is an excellent measure of variability and range , as a larger variance reflects a greater spread in the underlying data . Squaring the differences between each point and the mean avoids the issue of negative differences for values below the mean , but it means the variance is no longer in the same unit of measure as the original data . Taking the square root of the variance means the standard deviation returns to the original unit of measure and is easier to interpret and use in further calculations .
+--------------------------
+. Standard deviation is often used in creating strategies for investing and trading because it can help measure market volatility and predict performance trends .
+--------------------------
+Average Deviation , or Mean Absolute Deviation . The average deviation , or mean absolute deviation , is another measure of variability . It is calculated similarly to standard deviation , but it uses absolute values instead of squares to circumvent the issue of negative differences between the data points and their means . To calculate the average deviation :
+--------------------------
+Standard Deviation vs. Average Deviation Differences . Standard deviation is often used in creating strategies for investing and trading because it can help measure market volatility and predict performance trends . For example , an index fund should have a low average deviation when compared to its benchmark fund . That means it 's closely tracking the benchmark , as it 's supposed to do . More aggressive funds have a high standard deviation and greater volatility . These funds are high risk and potentially more profitable .
+--------------------------
+Standard Deviation vs. Average Deviation Differences . The mean average , or absolute deviation , is used less frequently because the use of absolute values makes further calculations more complicated and unwieldy than using the standard deviation .
+--------------------------

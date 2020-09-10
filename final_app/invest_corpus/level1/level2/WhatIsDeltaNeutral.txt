@@ -1,0 +1,1 @@
+ What Is Delta Neutral? . Delta neutral is a portfolio strategy utilizing multiple positions with balancing positive and negative deltas so that the overall delta of the assets in question totals zero.

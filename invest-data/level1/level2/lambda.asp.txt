@@ -1,0 +1,22 @@
+What is Lambda . One of the " Greeks , " lambda is the ratio of the dollar price change of an option to a 1 % change in the expected price volatility , also called the implied volatility , of an underlying asset . Lambda tells investors how much an option 's price will change for a given change in the implied volatility , even if the actual price of the underlying stays the same .
+--------------------------
+What is Lambda . Lambda 's value is higher the further away an option 's expiration date is and falls as the expiration date approaches . Just as individual options each have a lambda , an options portfolio has a net lambda that is determined by adding up the lambdas of each individual position .
+--------------------------
+What is Lambda . In options analysis , lambda is used interchangeably with the terms vega , kappa , and sigma .
+--------------------------
+BREAKING DOWN Lambda . Lambda changes when there are large price movements , or increased volatility​​​​​​​ , in the underlying asset . For example , if the price of an option moves higher by 10 % as volatility rises 5 % , then its lambda value is 2.0 . Lambda is calculated by the price move divided by the volatility rise .
+--------------------------
+BREAKING DOWN Lambda . If lambda is high , the option value is very sensitive to small changes in volatility . If lambda is low , changes in volatility will not have much of an effect on the option . A positive lambda is associated with a long option and means that the option becomes more valuable as volatility increases . Conversely , a negative lambda is associated with a short option and means the option becomes more valuable as volatility decreases .
+--------------------------
+BREAKING DOWN Lambda . Lambda is one of the most important options Greeks . Other important options Greeks include :
+--------------------------
+Lambda in Action . If a share of stock for ABC trades at $ 40 in April and a MAY 45 call sells for $ 2 . The option 's lambda is 0.15 and volatility is 20 % .
+--------------------------
+Lambda in Action . If the underlying volatility increased by 1 % to 21 % , then theoretically , the option price should move higher to $ 2 + ( 1 x 0.15 ) = $ 2.15 .
+--------------------------
+Lambda in Action . Alternatively , if volatility declined by 3 % to 17 % instead , then the option should fall to $ 2 - ( 3 x 0.15 ) = $ 1.55
+--------------------------
+Implied Volatility . Implied volatility is the estimated volatility , or gyrations , of a security 's price and is most commonly used when pricing options . Usually , but not always , implied volatility increases while the market is bearish , or when investors believe the asset 's price will decline over time . It usually , but not always , decreases when the market is bullish , or when investors believe that the price will rise over time . This movement is due to the common belief that bearish markets are riskier than bullish markets . Implied volatility is a way of estimating the future fluctuations of a security 's worth based on certain predictive factors .
+--------------------------
+Implied Volatility . As stated previously , lambda measures the theoretical percentage price change for each percentage move in implied volatility . Implied volatility ( IV ) is calculated using an options pricing model and determines what the current market prices are estimating an underlying asset 's future volatility to be . However , the implied volatility may deviate from the realized future volatility .
+--------------------------

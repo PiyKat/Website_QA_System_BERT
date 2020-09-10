@@ -1,0 +1,22 @@
+What Is a Strike Price ? . A strike price is the set price at which a derivative contract can be bought or sold when it is exercised . For call options , the strike price is where the security can be bought by the option holder ; for put options , the strike price is the price at which the security can be sold .
+--------------------------
+What Is a Strike Price ? . Strike price is also known as the exercise price .
+--------------------------
+Understanding Strike Prices . Strike prices are used in derivatives ( mainly options ) trading . Derivatives are financial products whose value is based ( derived ) on the underlying asset , usually another financial instrument . The strike price is a key variable of call and put options . For example , the buyer of a stock option call would have the right , but not the obligation , to buy that stock in the future at the strike price . Similarly , the buyer of a stock option put would have the right , but not the obligation , to sell that stock in the future at the strike price .
+--------------------------
+Understanding Strike Prices . The strike . or exercise price , is the most important determinant of option value . Strike prices are established when a contract is first written . It tells the investor what price the underlying asset must reach before the option is in - the - money ( ITM ) . Strike prices are standardized , meaning they are at fixed dollar amounts , such as $ 31 , $ 32 , $ 33 , $ 102.50 , $ 105 and so on .
+--------------------------
+Understanding Strike Prices . The price difference between the underlying stock price and the strike price determines an option 's value . For buyers of a call option , if the strike price is above the underlying stock price , the option is out of the money ( OTM ) . In this case , the option does n't have intrinsic value , but it may still have value based on volatility and time until expiration as either of these two factors could put the option in the money in the future . Conversely , If the underlying stock price is above the strike price , the option will have intrinsic value and be in the money .
+--------------------------
+Understanding Strike Prices . A buyer of a put option will be in the money when the underlying stock price is below the strike price and be out of the money when the underlying stock price is above the strike price . Again , an OTM option wo n't have intrinsic value , but it may still have value based on the volatility of the underlying asset and the time left until option expiration .
+--------------------------
+Strike Price Example . Assume there are two option contracts . One is a call option with a $ 100 strike price . The other is a call option with a $ 150 strike price . The current price of the underlying stock is $ 145 . Assume both call options are the same , the only difference is the strike price .
+--------------------------
+Strike Price Example . At expiration , the first contract is worth $ 45 . That is , it is in the money by $ 45 . This is because the stock is trading $ 45 higher than the strike price .
+--------------------------
+Strike Price Example . The second contract is out of the money by $ 5 . If the price of the underlying asset is below the call 's strike price at expiration , the option expires worthless .
+--------------------------
+Strike Price Example . If we have two put options , both about to expire , and one has a strike price of $ 40 and the other has a strike price of $ 50 , we can look to the current stock price to see which option has value . If the underlying stock is trading at $ 45 , the $ 50 put option has a $ 5 value . This is because the underlying stock is below the strike price of the put .
+--------------------------
+Strike Price Example . The $ 40 put option has no value , because the underlying stock is above the strike price . Recall that put options allow the option buyer to sell at the strike price . There is no point using the option to sell at $ 40 when they can sell at $ 45 in the stock market . Therefore , the $ 40 strike price put is worthless at expiration .
+--------------------------

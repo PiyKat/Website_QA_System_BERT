@@ -1,0 +1,1 @@
+ The Formula for the Expense Ratio Is . ﻿ER=Total Fund CostsTotal Fund Assets\begin{aligned} &\text{ER} = \frac{ \text{Total Fund Costs} }{ \text{Total Fund Assets} } \\ \end{aligned}​ER=Total Fund AssetsTotal Fund Costs​​﻿

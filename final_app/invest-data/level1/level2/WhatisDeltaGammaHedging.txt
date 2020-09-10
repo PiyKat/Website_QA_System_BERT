@@ -1,0 +1,1 @@
+ What is Delta-Gamma Hedging? . Delta-gamma hedging is an options strategy that combines both delta and gamma hedges to mitigate the risk of changes in the underlying asset and in delta itself. In options trading, delta refers to a change in the price of an option contract per change in the price of the underlying asset. Gamma refers to the rate of change of delta.

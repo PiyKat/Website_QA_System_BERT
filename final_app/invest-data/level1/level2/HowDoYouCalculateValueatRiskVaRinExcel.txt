@@ -1,0 +1,1 @@
+How Do You Calculate Value at Risk (VaR) in Excel? . Value at Risk (VaR) is one of the most widely known measurements for risk assessment and risk management. The goal of risk management is to identify and understand exposures to risk, to measure that risk, and then apply the knowledge to address those risks.

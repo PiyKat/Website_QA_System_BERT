@@ -1,0 +1,1 @@
+ What is a Swap Rate? . A swap rate is the rate of the fixed leg of a swap as determined by its particular market and the parties involved. In an interest rate swap, it is the fixed interest rate exchanged for a benchmark rate such as Libor, plus or minus a spread. It is also the exchange rate associated with the fixed portion of a currency swap.

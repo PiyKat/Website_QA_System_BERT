@@ -1,0 +1,20 @@
+What Is Asymmetric Information ? . Asymmetric information , also known as " information failure , " occurs when one party to an economic transaction possesses greater material knowledge than the other party . This typically manifests when the seller of a good or service possesses greater knowledge than the buyer ; however , the reverse dynamic is also possible . Almost all economic transactions involve information asymmetries .
+--------------------------
+Understanding Asymmetric Information . Asymmetric information is the specialization and division of knowledge , as applied to any economic trade . For example , doctors typically know more about medical practices than their patients . After all , physicians have extensive medical school educational backgrounds that their patients generally do n't have . This principle equally applies to architects , teachers , police officers , attorneys , engineers , fitness instructors , and other trained professionals .
+--------------------------
+The Economic Advantages of Asymmetric Information . Asymmetric information is n't necessarily a bad thing . In fact , growing asymmetrical information is the desired outcome of a healthy market economy . As workers strive to become increasingly specialized in their chosen fields , they become more productive , and can consequently provide greater value to workers in other fields .
+--------------------------
+The Economic Advantages of Asymmetric Information . For example , a stockbroker 's knowledge is more valuable to a non - investment professional , such as a farmer , who may be interested in confidently trading stocks , to prepare for retirement .
+--------------------------
+The Economic Advantages of Asymmetric Information . One alternative to ever - expanding asymmetric information is for workers to study all fields , rather than specialize in fields where they can provide the most value . However , this is an impractical solution , with high opportunity costs and potentially lower aggregate outputs , which would lower standards of living .
+--------------------------
+The Economic Advantages of Asymmetric Information . Another alternative to asymmetric information is to make information abundantly and inexpensively available through the internet and other data sources .
+--------------------------
+The Disadvantages of Asymmetric Information . In some circumstances , asymmetric information may have near fraudulent consequences , such as adverse selection , which describes a phenomenon where an insurance company encounters the probability of extreme loss due to a risk that was not divulged at the time of a policy 's sale .
+--------------------------
+The Disadvantages of Asymmetric Information . For example , if the insured hides the fact that he 's a heavy smoker and frequently engages in dangerous recreational activities , this asymmetrical flow of information constitutes adverse selection and could raise insurance premiums for all customers , forcing the healthy to withdraw . The solution is for life insurance providers is to perform thorough actuarial work and conduct detailed health screenings , and then charge different premiums to customers based on their honestly - disclosed risk profiles .
+--------------------------
+Special Considerations : Information Asymmetry in Finance . To prevent abuse of customers or clients by finance specialists , financial markets often rely on reputation mechanisms . Financial advisors and fund companies that prove to be the most honest and effective stewards of their clients ' assets tend to gain clients , while dishonest or ineffective agents tend to lose clients , face legal damages , or both .
+--------------------------
+Special Considerations : Information Asymmetry in Finance . [ Important : In certain asymmetric information models , one party can retaliate for contract breaches , while the other party can not . ]
+--------------------------

@@ -1,0 +1,1 @@
+ What Is the Black Scholes Model? . The Black Scholes model, also known as the Black-Scholes-Merton (BSM) model, is a mathematical model for pricing an options contract. In particular, the model estimates the variation over time of financial instruments such as stocks, and using the implied volatility of the underlying asset derives the price of a call option.

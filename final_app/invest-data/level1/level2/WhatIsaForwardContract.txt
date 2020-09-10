@@ -1,0 +1,1 @@
+ What Is a Forward Contract? . A forward contract is a customized contract between two parties to buy or sell an asset at a specified price on a future date. A forward contract can be used for hedging or speculation, although its non-standardized nature makes it particularly apt for hedging.

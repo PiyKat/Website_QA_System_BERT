@@ -1,0 +1,1 @@
+ What Is Sampling Distribution? . A sampling distribution is a probability distribution of a statistic obtained through a large number of samples drawn from a specific population. The sampling distribution of a given population is the distribution of frequencies of a range of different outcomes that could possibly occur for a statistic of a population.

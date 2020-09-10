@@ -1,0 +1,1 @@
+ What Is the Average Return? . The average return is the simple mathematical average of a series of returns generated over a period of time. An average return is calculated the same way a simple average is calculated for any set of numbers. The numbers are added together into a single sum, and then the sum is divided by the count of the numbers in the set.

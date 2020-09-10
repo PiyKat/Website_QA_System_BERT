@@ -1,0 +1,1 @@
+ Pros and Cons of Using Implied Volatility . Based solely on prices, not fundamentals Sensitive to unexpected factors, news events Predicts movement, but not direction

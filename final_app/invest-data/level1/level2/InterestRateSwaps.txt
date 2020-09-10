@@ -1,0 +1,1 @@
+ Interest Rate Swaps . In interest rate swaps, the notional value is the specified value upon which interest rate payments will be exchanged. The notional value in interest rate swaps is used to come up with the amount of interest due. Typically, the notional value on these types of contracts is fixed during the life of the contract.

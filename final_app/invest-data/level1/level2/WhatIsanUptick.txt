@@ -1,0 +1,1 @@
+ What Is an Uptick? . Uptick describes an increase in the price of a financial instrument since the preceding transaction. An uptick occurs when a security’s price rises in relation to the last tick or trade. An uptick is sometimes also referred to as a plus tick.

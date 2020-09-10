@@ -1,0 +1,1 @@
+ Calculating Covariance . = 2.66 / (5 - 1) = 0.665 In this situation, we are using a sample, so we divide by the sample size (five) minus one. The covariance between the two stock returns is 0.665. Because this number is positive, the stocks move in the same direction. In other words, when ABC had a high return, XYZ also had a high return. 

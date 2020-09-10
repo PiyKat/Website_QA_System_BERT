@@ -1,0 +1,16 @@
+What Is the Closing Price ? . Even in the era of 24-hour trading , there is a closing price for any stock or other security , and it is the final price at which it trades during regular market hours on any given day . The closing price is considered the most accurate valuation of a stock or other security until trading resumes on the next trading day .
+--------------------------
+What Is the Closing Price ? . Most stocks and other financial instruments are traded after - hours , although in far smaller volumes . Therefore , the closing price of any security is often different from its after - hours price .
+--------------------------
+Understanding the Closing Price . Closing prices are useful markers for investors to use to assess changes in stock prices over time .
+--------------------------
+Understanding the Closing Price . The closing price on one day can be compared to the closing price on the previous day , or 30 days earlier or a year earlier , to measure the changes in market sentiment towards that stock . All stock news sites allow investors to chart closing prices for a period of years , and typically since the day the company went public .
+--------------------------
+Pitfalls of the Closing Price . One important fact is that the closing price of any company 's stock will not usually reflect any news released by the company that day . Major company announcements related to earnings , stock splits , reverse stock splits , and stock dividends are typically released after the close of the regular trading day in order to give traders a chance to digest the news before acting upon it .
+--------------------------
+Pitfalls of the Closing Price . The release of news generally causes a stock 's price to move dramatically up or down in after - hours trading . However , after - hours trading involves a fraction of the volume seen during the trading day , making these price swings potentially deceptive .
+--------------------------
+Closing Price vs. Adjusted Closing Price . A particularly dramatic change in price occurs when a company announces a stock split . When the change is made , the price displayed will immediately reflect the split . For example , if a company splits its stock 2-for-1 , the last closing price will be cut in half . That 's the adjusted closing price .
+--------------------------
+Closing Price vs. Adjusted Closing Price . A reverse stock split causes a similarly dramatic price change . A reverse stock split can be a sign of a company in trouble that is struggling to make its stock price look healthier , or at least keep it above the $ 1 threshold that can get it delisted from an exchange . A 1-for-10 reverse stock split , for example , can transform a stock that is trading at 18 cents per share into one that is trading at $ 1.80 per share .
+--------------------------

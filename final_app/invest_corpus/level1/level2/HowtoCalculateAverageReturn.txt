@@ -1,0 +1,1 @@
+ How to Calculate Average Return . There are several return measures and ways to calculate them, but for the arithmetic average return, one takes the sum of the returns and divides it by the number of return figures.

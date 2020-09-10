@@ -1,0 +1,1 @@
+ The Formula for R-Squared Is . ﻿R2=1−Explained VariationTotal Variation\begin{aligned} &\text{R}^2 = 1 - \frac{ \text{Explained Variation} }{ \text{Total Variation} } \\ \end{aligned}​R2=1−Total VariationExplained Variation​​﻿

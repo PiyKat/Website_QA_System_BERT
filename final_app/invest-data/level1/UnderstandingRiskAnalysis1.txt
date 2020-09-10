@@ -1,0 +1,1 @@
+ Understanding Risk Analysis . Examples of qualitative risk tools include SWOT Analysis, Cause and Effect diagrams, Decision Matrix, Game Theory, etc. A firm that wants to measure the impact of a security breach on its servers may use a qualitative risk technique to help prepare it for any lost income that may occur from a data breach.

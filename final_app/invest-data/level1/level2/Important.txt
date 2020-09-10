@@ -1,0 +1,1 @@
+Important . The expiration time of an options contract is the date and time when it is rendered null and void. It is more specific than the expiration date and should not be confused with the last time to trade that option.

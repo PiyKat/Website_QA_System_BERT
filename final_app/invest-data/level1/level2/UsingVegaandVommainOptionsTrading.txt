@@ -1,0 +1,1 @@
+ Using Vega and Vomma in Options Trading . Vega and vomma are measures that can be used in gauging the sensitivity of the Black-Scholes option pricing model to variables affecting option prices. They are considered along with the Black-Scholes pricing model when making investment decisions.

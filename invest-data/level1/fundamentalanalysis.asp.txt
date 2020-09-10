@@ -1,0 +1,88 @@
+What Is Fundamental Analysis ? . Fundamental analysis ( FA ) is a method of measuring a security 's intrinsic value by examining related economic and financial factors . Fundamental analysts study anything that can affect the security 's value , from macroeconomic factors such as the state of the economy and industry conditions to microeconomic factors like the effectiveness of the company 's management .
+--------------------------
+What Is Fundamental Analysis ? . The end goal is to arrive at a number that an investor can compare with a security 's current price in order to see whether the security is undervalued or overvalued .
+--------------------------
+What Is Fundamental Analysis ? . This method of stock analysis is considered to be in contrast to technical analysis , which forecasts the direction of prices through an analysis of historical market data such as price and volume .
+--------------------------
+Understanding Fundamental Analysis . All stock analysis tries to determine whether a security is correctly valued within the broader market . Fundamental analysis is usually done from a macro to micro perspective in order to identify securities that are not correctly priced by the market .
+--------------------------
+Understanding Fundamental Analysis . Analysts typically study , in order , the overall state of the economy and then the strength of the specific industry before concentrating on individual company performance to arrive at a fair market value for the stock .
+--------------------------
+Understanding Fundamental Analysis . Fundamental analysis uses public data to evaluate the value of a stock or any other type of security . For example , an investor can perform fundamental analysis on a bond 's value by looking at economic factors such as interest rates and the overall state of the economy , thenstudying information about the bond issuer , such as potential changes in its credit rating .
+--------------------------
+Understanding Fundamental Analysis . For stocks , fundamental analysis uses revenues , earnings , future growth , return on equity , profit margins , and other data to determine a company 's underlying value and potential for future growth . All of this data is available in a company 's financial statements ( more on that below ) .
+--------------------------
+. Fundamental analysis is used most often for stocks , but it is useful for evaluating any security , from a bond to a derivative . If you consider the fundamentals , from the broader economy to the company details , you are doing fundamental analysis .
+--------------------------
+Investing and Fundamental Analysis . If the intrinsic value is higher than the current market price the stock is deemed to be undervalued and a buy recommendation is given . If the intrinsic value is lower than its market price the stock is considered overvalued and a sell recommendation is issued .
+--------------------------
+Investing and Fundamental Analysis . Investors go long ( purchasing with the expectation that the stock will rise in price ) companies that are strong , and go short ( selling shares that you believe will drop in value with the expectation of repurchasing them at a lower price ) companies that are weak .
+--------------------------
+Investing and Fundamental Analysis . This method of stock analysis is considered to be the opposite of technical analysis , which forecasts the direction of prices through an analysis of historical market data such as price and volume .
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . The problem with defining the word fundamentals is that it can cover anything related to the economic well - being of a company . They obviously include numbers like revenue and profit , but they can also include anything from a company 's market share to the quality of its management .
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . The various fundamental factors can be grouped into two categories : quantitative and qualitative . The financial meaning of these terms is n't much different from their standard definitions . Here is how a dictionary defines the terms :
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . In this context , quantitative fundamentals are hard numbers . They are the measurable characteristics of a business . That 's why the biggest source of quantitative data is financial statements . Revenue , profit , assets , and more can be measured with great precision .
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . The qualitative fundamentals are less tangible . They might include the quality of a company 's key executives , its brand - name recognition , patents , and proprietary technology .
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . Neither qualitative nor quantitative analysis is inherently better . Many analysts consider them together .
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . There are four key fundamentals that analysts always consider when regarding a company . All are qualitative rather than quantitative . They include :
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . It 's also important to consider a company 's industry : customer base , market share among firms , industry - wide growth , competition , regulation , and business cycles . Learning about how the industry works will give an investor a deeper understanding of a company 's financial health .
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . Financial statements are the medium by which a company discloses information concerning its financial performance . Followers of fundamental analysis use quantitative information gleaned from financial statements to make investment decisions . The three most important financial statements are income statements , balance sheets , and cash flow statements .
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . The Balance Sheet
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . The balance sheet represents a record of a company 's assets , liabilities and equity at a particular point in time . The balance sheet is named by the fact that a business 's financial structure balances in the following manner :
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . Assets = Liabilities + Shareholders\ ' Equity
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . Assets represent the resources that the business owns or controls at a given point in time . This includes items such as cash , inventory , machinery and buildings . The other side of the equation represents the total value of the financing the company has used to acquire those assets . Financing comes as a result of liabilities or equity . Liabilities represent debt ( which of course must be paid back ) , while equity represents the total value of money that the owners have contributed to the business - including retained earnings , which is the profit made in previous years .
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . The Income Statement
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . While the balance sheet takes a snapshot approach in examining a business , the income statement measures a company 's performance over a specific time frame . Technically , you could have a balance sheet for a month or even a day , but you 'll only see public companies report quarterly and annually .
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . The income statement presents information about revenues , expenses and profit that was generated as a result of the business ' operations for that period .
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . Statement of Cash Flows
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . The statement of cash flows represents a record of a business ' cash inflows and outflows over a period of time . Typically , a statement of cash flows focuses on the following cash - related activities :
+--------------------------
+Quantitative and Qualitative Fundamental Analysis . The cash flow statement is important because it 's very difficult for a business to manipulate its cash situation . There is plenty that aggressive accountants can do to manipulate earnings , but it 's tough to fake cash in the bank . For this reason , some investors use the cash flow statement as a more conservative measure of a company 's performance .
+--------------------------
+The Concept of Intrinsic Value . One of the primary assumptions of fundamental analysis is that the price on the stock market does not fully reflect a stock 's real value . Why else do a price analysis ?
+--------------------------
+The Concept of Intrinsic Value . In financial jargon , this true value is known as intrinsic value .
+--------------------------
+The Concept of Intrinsic Value . For example , say that a company 's stock was trading at $ 20 . After doing extensive homework on the company , you determine that it is really worth $ 25 . That is , you determine the intrinsic value of the stock to be $ 25 .
+--------------------------
+The Concept of Intrinsic Value . This is clearly relevant because you want to buy stocks that are trading at prices significantly below their intrinsic value .
+--------------------------
+The Concept of Intrinsic Value . This leads to a second major assumption of fundamental analysis : In the long run , the stock market will reflect the fundamentals . The problem is , nobody knows how long " the long run " really is . It could be days or years .
+--------------------------
+The Concept of Intrinsic Value . This is what fundamental analysis is all about . By focusing on a particular business , an investor can estimate the intrinsic value of a firm and find opportunities to buy at a discount . The investment will pay off when the market catches up to the fundamentals .
+--------------------------
+. One of the most famous and successful fundamental analysts is the so - called " Oracle of Omaha , " Warren Buffett , who champions the technique in picking stocks .
+--------------------------
+Criticisms of Fundamental Analysis . The biggest criticisms of fundamental analysis come primarily from two groups : proponents of technical analysis and believers of the efficient market hypothesis .
+--------------------------
+Criticisms of Fundamental Analysis . Technical analysis is the other primary form of security analysis . Put simply , technical analysts base their investments ( or , more precisely , their trades ) solely on the price and volume movements of stocks . Using charts and other tools , they trade on momentum and ignore the fundamentals .
+--------------------------
+Criticisms of Fundamental Analysis . One of the basic tenets of technical analysis is that the market discounts everything . All news about a company is already priced into the stock . Therefore , the stock 's price movements give more insight than the underlying fundamentals of the business itself .
+--------------------------
+Criticisms of Fundamental Analysis . Followers of the efficient market hypothesis , however , are usually in disagreement with both fundamental and technical analysts .
+--------------------------
+Criticisms of Fundamental Analysis . The efficient market hypothesis contends that it is essentially impossible to beat the market through either fundamental or technical analysis . Since the market efficiently prices all stocks on an ongoing basis , any opportunities for excess returns are almost immediately whittled away by the market 's many participants , making it impossible for anyone to meaningfully outperform the market over the long term .
+--------------------------
+Examples of Fundamental Analysis . Take the Coca - Cola Company , for example . When examining its stock , an analyst must look at the stock 's annual dividend payout , earnings per share , P / E ratio , and many other quantitative factors . However , no analysis of Coca - Cola is complete without taking into account its brand recognition . Anybody can start a company that sells sugar and water , but few companies are known to billions of people . It 's tough to put a finger on exactly what the Coke brand is worth , but you can be sure that it 's an essential ingredient contributing to the company 's ongoing success .
+--------------------------
+Examples of Fundamental Analysis . Even the market as a whole can be evaluated using fundamental analysis . For example , analysts looked at fundamental indicators of the S&P 500 from July 4 to July 8 , 2016 . During this time , the S&P rose to 2129.90 after the release of a positive jobs ' report in the United States . In fact , the market just missed a new record high , coming in just under the May 2015 high of 2132.80 . The economic surprise of an additional 287,000 jobs for the month of June specifically increased the value of the stock market on July 8 , 2016 .
+--------------------------
+Examples of Fundamental Analysis . However , there are differing views on the market 's true value . Some analysts believe the economy is heading for a bear market , while other analysts believe it will continue as a bull market .
+--------------------------

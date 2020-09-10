@@ -1,0 +1,1 @@
+How Do You Calculate Volatility in Excel? . The example above used daily closing prices, and there are 252 trading days per year, on average. Therefore, in cell C14, enter the formula "=SQRT(252)*C13" to convert the standard deviation for this 10-day period to annualized historical volatility.

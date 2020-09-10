@@ -1,0 +1,20 @@
+What Is an Algorithm ? . An algorithm is set of instructions for solving a problem or accomplishing a task . One common example of an algorithm is a recipe , which consists of specific instructions for preparing a dish / meal . Every computerized device uses algorithms to perform its functions .
+--------------------------
+How an Algorithm Works . Financial companies use algorithms in areas such as loan pricing , stock trading , asset - liability management , and many automated functions . For example , algorithmic trading , known as " algo " trading , is used for deciding the timing , pricing , and quantity of stock orders . Algo trading , also known as automated trading or black - box trading , uses a computer program to buy or sell securities at a pace not possible for humans .
+--------------------------
+How an Algorithm Works . Since prices of stocks , bonds , and commodities appear in various formats online and in trading data , the process by which an algorithm digests scores of financial data becomes easy . The user of the program simply sets the parameters and gets the desired output when securities meet the trader 's criteria .
+--------------------------
+How an Algorithm Works . Computer algorithms make life easier by trimming the time it takes to manually do things . In the world of automation , algorithms allow workers to be more proficient and focused . Algorithms make slow processes more proficient . In many cases , especially in automation , algos save companies money .
+--------------------------
+Types of Algos . Several types of trading algorithms help investors decide whether to buy or sell . A mean reversion algorithm examines short - term prices over the long - term average price , and if a stock goes much higher than the average , a trader may sell it for a quick profit . Seasonality refers to the practice of traders buying and selling securities based on the time of year when markets typically rise or fall . A sentiment analysis algorithm gauges news about a stock price that could lead to higher volume for a trading period .
+--------------------------
+Algorithm Example . The following is an example of an algorithm for trading . A trader creates instructions within his automated account to sell 100 shares of a stock if the 50-day moving average goes below the 200-day moving average .
+--------------------------
+Algorithm Example . Contrarily , the trader could create instructions to buy 100 shares if the 50-day moving average of a stock rises above the 200-day moving average . Sophisticated algorithms consider hundreds of criteria before buying or selling securities . Computers quickly synthesize the automated account 's instructions to produce the desired results . Without computers , complex trading would be time - consuming and likely impossible .
+--------------------------
+Algorithms in Computer Science . In computer science , a programmer must employ five basic parts of an algorithm to create a successful program .
+--------------------------
+Algorithms in Computer Science . First , he / she describes the problem in mathematical terms before creating the formulas and processes that create results . Next , the programmer inputs the outcome parameters , and then he / she executes the program repeatedly to test its accuracy . The conclusion of the algorithm is the result given after the parameters go through the set of instructions in the program .
+--------------------------
+Algorithms in Computer Science . For financial algorithms , the more complex the program , the more data the software can use to make accurate assessments to buy or sell securities . Programmers test complex algorithms thoroughly to ensure the programs are without errors . Many algorithms can be used for one problem ; however , there are some that simplify the process better than others .
+--------------------------

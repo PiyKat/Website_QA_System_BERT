@@ -1,0 +1,52 @@
+What Is Covariance ? . The fields of mathematics and statistics offer a great many tools to help us evaluate stocks . One of these is covariance , which is a statistical measure of the directional relationship between two asset prices . One may apply the concept of covariance to anything , but here the variables are stock prices . Formulas that calculate covariance can predict how two stocks might perform relative to each other in the future . Applied to historical prices , covariance can help determine if stocks ' prices tend to move with or against each other .
+--------------------------
+What Is Covariance ? . Using the covariance tool , investors might even be able to select stocks that complement each other in terms of price movement . This can help reduce the overall risk and increase the overall potential return of a portfolio . It is important to understand the role of covariance when selecting stocks .
+--------------------------
+Covariance in Portfolio Management . Covariance applied to a portfolio can help determine what assets to include in the portfolio . It measures whether stocks move in the same direction ( a positive covariance ) or in opposite directions ( a negative covariance ) . When constructing a portfolio , a portfolio manager will select stocks that work well together , which usually means these stocks would not move in the same direction .
+--------------------------
+Calculating Covariance . Calculating a stock 's covariance starts with finding a list of previous prices or " historical prices " as they are called on most quote pages . Typically , you use the closing price for each day to find the return . To begin the calculations , find the closing price for both stocks and build a list . For example :
+--------------------------
+Calculating Covariance . Next , we need to calculate the average return for each stock :
+--------------------------
+Calculating Covariance . This is represented by the following equation :
+--------------------------
+Calculating Covariance . ﻿Covariance=∑(ReturnABC − AverageABC ) ∗ ( ReturnXYZ − AverageXYZ)(Sample Size ) − 1\text{Covariance}=\frac{\sum{\left(Return_{ABC}\text { } -\text { } Average_{ABC}\right)\text { } * \text { } \left(Return_{XYZ}\text { } -\text { } Average_{XYZ}\right)}}{\left(\text{Sample Size}\right)\text { } -\text { } 1}Covariance=(Sample Size ) − 1∑(ReturnABC​ − AverageABC​ ) ∗ ( ReturnXYZ​ − AverageXYZ​)​﻿
+--------------------------
+Calculating Covariance . Using our example of ABC and XYZ above , the covariance is calculated as :
+--------------------------
+Calculating Covariance . = [ ( 1.1 - 1.30 ) x ( 3 - 3.74 ) ] + [ ( 1.7 - 1.30 ) x ( 4.2 - 3.74 ) ] + [ ( 2.1 - 1.30 ) x ( 4.9 - 3.74 ) ] + …
+--------------------------
+Calculating Covariance . = [ 0.148 ] + [ 0.184 ] + [ 0.928 ] + [ 0.036 ] + [ 1.364 ]
+--------------------------
+Calculating Covariance . = 2.66 / ( 5 - 1 )
+--------------------------
+Calculating Covariance . = 0.665
+--------------------------
+Calculating Covariance . In this situation , we are using a sample , so we divide by the sample size ( five ) minus one .
+--------------------------
+Calculating Covariance . The covariance between the two stock returns is 0.665 . Because this number is positive , the stocks move in the same direction . In other words , when ABC had a high return , XYZ also had a high return .
+--------------------------
+Covariance in Microsoft Excel . In Excel , you use one of the following functions to find the covariance :
+--------------------------
+Covariance in Microsoft Excel . = COVARIANCE.S ( ) for a sample
+--------------------------
+Covariance in Microsoft Excel . or
+--------------------------
+Covariance in Microsoft Excel . = COVARIANCE.P ( ) for a population
+--------------------------
+Covariance in Microsoft Excel . You will need to set up the two lists of returns in vertical columns as in Table 1 . Then , when prompted , select each column . In Excel , each list is called an " array , " and two arrays should be inside the brackets , separated by a comma .
+--------------------------
+Meaning . In the example , there is a positive covariance , so the two stocks tend to move together . When one stock has a high return , the other tends to have a high return as well . If the result were negative , then the two stocks would tend to have opposite returns — when one had a positive return , the other would have a negative return .
+--------------------------
+Uses of Covariance . Finding that two stocks have a high or low covariance might not be a useful metric on its own . Covariance can tell how the stocks move together , but to determine the strength of the relationship , we need to look at their correlation . The correlation should , therefore , be used in conjunction with the covariance , and is represented by this equation :
+--------------------------
+Uses of Covariance . ﻿Correlation = ρ = cov(X , Y)σXσYwhere : cov(X , Y)=Covariance between X and YσX = Standard deviation of XσY = Standard deviation of Y\begin{aligned } & \text{Correlation}=\rho=\frac{cov\left(X , Y\right)}{\sigma_X\sigma_Y}\\ & \textbf{where:}\\ & cov\left(X , Y\right)=\text{Covariance between X and Y}\\ & \sigma_X=\text{Standard deviation of X}\\ & \sigma_Y=\text{Standard deviation of Y}\\ \end{aligned}​Correlation = ρ = σX​σY​cov(X , Y)​where : cov(X , Y)=Covariance between X and YσX​=Standard deviation of XσY​=Standard deviation of Y​﻿
+--------------------------
+Uses of Covariance . The equation above reveals that the correlation between two variables is the covariance between both variables divided by the product of the standard deviation of the variables . While both measures reveal whether two variables are positively or inversely related , the correlation provides additional information by determining the degree to which both variables move together . The correlation will always have a measurement value between -1 and 1 , and it adds a strength value on how the stocks move together .
+--------------------------
+Uses of Covariance . If the correlation is 1 , they move perfectly together , and if the correlation is -1 , the stocks move perfectly in opposite directions . If the correlation is 0 , then the two stocks move in random directions from each other . In short , covariance tells you that two variables change the same way while correlation reveals how a change in one variable affects a change in the other .
+--------------------------
+Uses of Covariance . You also may use covariance to find the standard deviation of a multi - stock portfolio . The standard deviation is the accepted calculation for risk , which is extremely important when selecting stocks . Most investors would want to select stocks that move in opposite directions because the risk will be lower , although they 'll provide the same amount of potential return .
+--------------------------
+The Bottom Line . Covariance is a common statistical calculation that can show how two stocks tend to move together . Because we can only use historical returns , there will never be complete certainty about the future . Also , covariance should not be used on its own . Instead , it should be used in conjunction with other calculations such as correlation or standard deviation .
+--------------------------

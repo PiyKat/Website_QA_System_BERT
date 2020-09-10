@@ -1,0 +1,1 @@
+ Limitations of Using Average Return . The simple average of returns is an easy calculation, but it is not very accurate. For more accurate returns calculations, analysts and investors also frequently use the geometric mean or money-weighted return.

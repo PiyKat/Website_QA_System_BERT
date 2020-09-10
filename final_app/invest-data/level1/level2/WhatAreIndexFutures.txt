@@ -1,0 +1,1 @@
+ What Are Index Futures? . Index futures are futures contracts where a trader can buy or sell a financial index today to be settled at a future date. Index futures are used to speculate on the direction of price movement for an index such as the S&P 500. Investors and investment managers also use index futures to hedge their equity positions against losses.

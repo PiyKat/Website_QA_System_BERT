@@ -1,0 +1,1 @@
+ Calculate Standard Deviation . Standard deviation is calculated as: For an in-depth look, read more about calculating standard deviation and other volatility measures in Excel.

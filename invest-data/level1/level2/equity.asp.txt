@@ -1,0 +1,72 @@
+What Is Equity ? . Equity is typically referred to as shareholder equity ( also known as shareholders ' equity ) which represents the amount of money that would be returned to a company ’s shareholders if all of the assets were liquidated and all of the company 's debt was paid off .
+--------------------------
+What Is Equity ? . Equity is found on a company 's balance sheet and is one of the most common financial metrics employed by analysts to assess the financial health of a company . Shareholder equity can also represent the book value of a company . Equity can sometimes be offered as payment - in - kind .
+--------------------------
+What Is Equity ? . There are various types of equity that extend beyond a corporation ’s balance sheet . In this article , we ’ll explore the different types of equity including how investors can calculate a corporation ’s equity or net worth .
+--------------------------
+Formula and Calculation for Shareholder Equity . it is important for shareholders to know the financial stability of the companies they invest into . The following formula and calculation can be used to determine the risk involved with investing in a firm .
+--------------------------
+Formula and Calculation for Shareholder Equity . ﻿Shareholders ’ Equity = Total Assets−Total Liabilities\text{Shareholders ' Equity } = \text{Total Assets } - \text{Total Liabilities}Shareholders ’ Equity = Total Assets−Total Liabilities﻿
+--------------------------
+Formula and Calculation for Shareholder Equity . The balance sheet holds the basis of the accounting equation , which is as follows :
+--------------------------
+Formula and Calculation for Shareholder Equity . ﻿Assets = Liabilities+Shareholder Equity\text{Assets } = \text{Liabilities } + \text{Shareholder Equity}Assets = Liabilities+Shareholder Equity﻿
+--------------------------
+Formula and Calculation for Shareholder Equity . However , we want to find the value of equity , which can be done as follows :
+--------------------------
+What Does Equity Tell You ? . The accounting equation for the balance sheet as well as equity has applications beyond companies . We can think of equity as a degree of ownership in any asset after subtracting all debts associated with that asset .
+--------------------------
+What Does Equity Tell You ? . Below are several types of equity :
+--------------------------
+Understanding Shareholder Equity . Equity is important because it represents the value of an investor ’s stake in securities or a company . Investors who hold stock in a company are usually interested in their personal equity in the company , represented by their shares . Yet this kind of personal equity is a function of the company 's total equity . Owning stock in a company over time may yield capital gains or stock price appreciation as well as dividends for shareholders . Owning equity can also give shareholders the right to vote in any elections for the board of directors . These equity ownership benefits promote shareholders ongoing interest in the company .
+--------------------------
+Understanding Shareholder Equity . Equity represents the shareholders ’ stake in the company . As stated earlier , the calculation of equity is a company 's total assets minus its total liabilities .
+--------------------------
+Understanding Shareholder Equity . Shareholder equity can also be expressed as a company 's share capital and retained earnings less the value of treasury shares . This method , however , is less common . Though both methods yield the same figure , the use of total assets and total liabilities is more illustrative of a company 's financial health . By comparing concrete numbers reflecting everything the company owns and everything it owes , the " assets - minus - liabilities " shareholder equity equation paints a clear picture of a company 's finances , which can be easily interpreted by investors and analysts .
+--------------------------
+Understanding Shareholder Equity . Shareholder equity can be either negative or positive . If positive , the company has enough assets to cover its liabilities . If negative , the company 's liabilities exceed its assets ; if prolonged , this is considered balance sheet insolvency .
+--------------------------
+Understanding Shareholder Equity . Typically , investors view companies with negative shareholder equity as risky or unsafe investments . Shareholder equity alone is not a definitive indicator of a company 's financial health ; used in conjunction with other tools and metrics , the investor can accurately analyze the health of an organization .
+--------------------------
+The Uses of Equity Issuance . Equity is used as capital for a company , which could be to purchase assets and fund operations . Stockholder equity has two main sources . The first is from the money initially invested in a company and additional investments made later . In the public markets , the first time a company issues shares on the primary market , this equity is used to either start operations , or in the case of an established company , for growth capital . The funds from the issuance of equity could also be used to pay off debt or acquire another company .
+--------------------------
+Components of Shareholder Equity . Retained earnings are part of shareholder equity and are the percentage of net earnings that were not paid to shareholders as dividends . Think of retained earnings as savings since it represents a cumulative total of profits that have been saved and put aside or retained for future use . Retained earnings grow larger over time as the company continues to reinvest a portion of its income .
+--------------------------
+Components of Shareholder Equity . At some point , the amount of accumulated retained earnings can exceed the amount of equity capital contributed by stockholders . Retained earnings are usually the largest component of stockholders ’ equity for companies that have been operating for many years .
+--------------------------
+Components of Shareholder Equity . Treasury shares or stock ( not to be confused with U.S.Treasury bills ) represent stock that the company has bought back from existing shareholders . Companies may do a repurchase when management can not deploy all the available equity capital in ways that might deliver the best returns . Shares bought back by companies become treasury shares , and their dollar value is noted in an account called treasury stock , a contra account to the accounts of investor capital and retained earnings . Companies can reissue treasury shares back to stockholders when companies need to raise money .
+--------------------------
+Components of Shareholder Equity . Many see stockholders ' equity as representing a company 's net assets — its net value , so to speak , would be the amount shareholders would receive if the company liquidated all its assets and repaid all its debts .
+--------------------------
+Example of Shareholder Equity . Below is a portion of Exxon Mobil Corporation 's ( XOM ) balance sheet as of September 30 , 2018 :
+--------------------------
+Example of Shareholder Equity . The accounting equation whereby assets = liabilities + shareholder equity is calculated as follows :
+--------------------------
+Private Equity . Equity can be categorized as either the market value of equity or book value . When an investment is publicly traded , market value is readily available . Interested parties can also have a valuation done to estimate market value . A homeowner wishing to sell a home will hire a realtor to establish a comparable market value with which to establish an estimated sales price ( and the owner ’s equity will represent its assets ( percent of home owned ) minus liabilities ( the outstanding mortgage ) . Book value is shareholder equity stated on the balance sheet .
+--------------------------
+Private Equity . This distinction is important because in private markets no readily available market value is available . Private equity generally refers to companies that are not publicly traded . The accounting equation still applies where stated equity on the balance sheet is what is left over when subtracting liabilities from equity . It involves funding that is not noted on a public exchange . Private equity comes from funds and investors that directly invest in private companies or that engage in leveraged buyouts ( LBOs ) of public companies .
+--------------------------
+Private Equity . Private investors can include institutions , including pension funds , university endowments , and insurance companies , or individuals . Private equity also refers to mezzanine debt , private - placement loans , distressed debt and funds of funds . Private equity comes into play at different points along a company 's life cycle . Typically , a young company with no revenue or earnings ca n't afford to borrow , so it must get capital from friends and family or individual " angel investors . " Venture capitalists enter the picture when the company has finally created its product or service and is ready to bring it to market . Some of the largest , most successful corporations in the tech sector , like Dell Technologies and Apple Inc. , began as venture - funded operations .
+--------------------------
+Private Equity . Venture capitalists provide most equity financing in return for a minority stake . Sometimes , a venture capitalist will take a seat on the board of directors for its portfolio companies , ensuring an active role in guiding the company . Venture capitalists look to hit big early on and exit investments within five to seven years . An LBO is one of the most common types of private equity financing and might occur as a company matures .
+--------------------------
+Private Equity . In an LBO transaction , a company receives a loan from a private equity firm to fund the acquisition of a division or another company . Cash flows or the assets of the company being acquired usually secure the loan . Mezzanine debt is a private loan , usually provided by a commercial bank or a mezzanine venture capital firm . Mezzanine transactions often involve a mix of debt and equity in the form of a subordinated loan or warrants , common stock or preferred stock .
+--------------------------
+Private Equity . A final type of private equity is a Private Investment in a Public Company or PIPE . A PIPE is s a private investment firm 's , a mutual fund 's or another qualified investors ' purchase of stock in a company at a discount to the current market value ( CMV ) per share to raise capital .
+--------------------------
+Private Equity . Unlike shareholder equity , private equity is not a thing for the average individual . Only " accredited " investors , those with a net worth of at least $ 1 million , can take part in private equity or venture capital partnerships . Such endeavors might require the use of form 4 , depending on their scale . For investors who are less well - off , there is the option of exchange - traded funds ( ETFs ) that focus on investing in private companies .
+--------------------------
+Equity Begins at Home . Home equity is roughly comparable to home ownership . The amount of equity one has in his or her residence represents how much of the home he or she owns outright . Equity on a property or home stems from payments made against a mortgage , including a down payment , and from increases in property value .
+--------------------------
+Equity Begins at Home . Home equity is often an individual ’s greatest source of collateral , and the owner can use it to get a home - equity loan , which some call a second mortgage or a home - equity line of credit . Taking money out of a property or borrowing money against it is an equity takeout .
+--------------------------
+Equity Begins at Home . For example , let ’s say Sally has a house with a mortgage on it . The house has a current market value of $ 175,000 and the mortgage owed totals $ 100,000 . Sally has $ 75,000 worth of equity in her home or $ 175,000 ( asset total ) - $ 100,000 ( liability total ) .
+--------------------------
+Brand Equity . When determining an asset 's in calculating equity , particularly for larger corporations , it is important to note these assets may include both tangible assets , like property , and intangible assets , like the company ’s reputation and brand identity . Through years of advertising and development of a customer base , a company ’s brand can come to have an inherent value . Some call this value “ brand equity , ” which measures the value of a brand relative to a generic or store - brand version of a product .
+--------------------------
+Brand Equity . For example , many soft - drink lovers will reach for a Coke before buying a store - brand cola because they prefer or are more familiar with the flavor . If a 2-liter bottle of store - brand cola costs $ 1 and a 2-liter bottle of Coke costs $ 2 , then the Coca - Cola has brand equity of $ 1 .
+--------------------------
+Brand Equity . There is also such a thing as negative brand equity , which is when people will pay more for a generic or store - brand product than they will for a particular brand name . Negative brand equity is rare and can occur because of bad publicity , such as a product recall or disaster .
+--------------------------
+Equity vs. Return on Equity . Return on equity ( ROE ) is a measure of financial performance calculated by dividing net income by shareholder equity . Because shareholder equity is equal to a company ’s assets minus its debt , ROE could be thought of as the return on net assets . ROE is considered a measure of how effectively management is using a company ’s assets to create profits . Equity has various meanings but usually represents ownership in an asset or a company such as stockholders owning equity in a company . ROE is a financial metric that measures how much profit is generated from a company ’s shareholder equity .
+--------------------------

@@ -1,0 +1,1 @@
+ Meaning . In the example, there is a positive covariance, so the two stocks tend to move together. When one stock has a high return, the other tends to have a high return as well. If the result were negative, then the two stocks would tend to have opposite returns—when one had a positive return, the other would have a negative return.

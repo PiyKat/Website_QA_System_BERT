@@ -1,0 +1,20 @@
+What Is Semi - Deviation ? . Semi - deviation is a method of measuring the below - mean fluctuations in the returns on investment .
+--------------------------
+. Semi - deviation will reveal the worst - case performance to be expected from a risky investment .
+--------------------------
+. Semi - deviation is an alternative measurement to standard deviation or variance . However , unlike those measures , semi - deviation looks only at negative price fluctuations . Thus , semi - deviation is most often used to evaluate the downside risk of an investment .
+--------------------------
+Understanding Semi - Deviation . In investing , semi - deviation is used to measure the dispersion of an asset 's price from an observed mean or target value . In this sense , dispersion means the extent of variation from the mean price .
+--------------------------
+Key Takeaways . The point of the exercise is to determine the severity of the downside risk of an investment . The asset 's semi - deviation number can then be compared to a benchmark number , such as an index , to see if it is more or less risky than other potential investments .
+--------------------------
+Key Takeaways . The formula for semi - deviation is :
+--------------------------
+Key Takeaways . ﻿Semi - deviation = 1n × ∑rt < Averagen(Average − rt)2where : n = the total number of observations below the meanrt = the observed value\begin{aligned}&\text{Semi - deviation}\ = \ \sqrt{\frac{1}{n}\ \times\ \sum^n_{r_t\ < \ \text{Average}}(\text{Average}\ -\ r_t)^2}\\&\textbf{where:}\\&n\ = \ \text{the total number of observations below the mean}\\&r_t\ = \ \text{the observed value}\\&\text{average}\ = \text{the mean or target value of a data set}\end{aligned}​Semi - deviation = n1​ × rt​ < Average∑n​(Average − rt​)2​where : n = the total number of observations below the meanrt​ = the observed value​﻿
+--------------------------
+Key Takeaways . An investor 's entire portfolio could be evaluated according to the semi - deviation in the performance of its assets . Put bluntly , this will show the worst - case performance that can be expected from a portfolio , compared to the losses in an index or whatever comparable is selected .
+--------------------------
+Key Takeaways . Semi - deviation was introduced in the 1950s specifically to help investors manage risky portfolios . Its development is credited to two leaders in modern portfolio theory .
+--------------------------
+Key Takeaways . In semi - deviation , n is set to the full number of observations . In semivariance , n is the subset of returns below the mean . However , while this is the correct mathematical definition of semivariance , this result does n't make any sense if you use the time series of returns below the mean or below a MAR to construct a semi - covariance matrix for portfolio optimization .
+--------------------------

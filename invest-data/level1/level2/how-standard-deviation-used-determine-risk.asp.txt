@@ -1,0 +1,26 @@
+How Is Standard Deviation Used to Determine Risk ? . Risk measurement is a very big component of many sectors of the finance industry . While it plays a role in economics and accounting , the impact of accurate or faulty risk measurement is most clearly illustrated in the investment sector .
+--------------------------
+How Is Standard Deviation Used to Determine Risk ? . Knowing the probability that a security — whether you invest in stocks , options , or mutual funds — moves in an unexpected way can be the difference between a well - placed trade and bankruptcy . Traders and analysts use a number of metrics to assess the volatility and relative risk of potential investments , but the most common metric is standard deviation .
+--------------------------
+How Is Standard Deviation Used to Determine Risk ? . Read on to find out more about standard deviation , and how it helps determine risk in the investment industry .
+--------------------------
+What Is Standard Deviation ? . Standard deviation is a basic mathematical concept that measures volatility in the market , or the average amount by which individual data points differ from the mean . Simply put , standard deviation helps determine the spread of asset prices from their average price .
+--------------------------
+What Is Standard Deviation ? . When prices swing up or down , the standard deviation is high meaning there is high volatility . On the other hand , when there is a narrow spread between trading ranges , the standard deviation is low , meaning volatility is low . What can we determine by this ? Volatile prices mean standard deviation is high , and it is low when prices are relatively calm and not subject to wild swings .
+--------------------------
+What Is Standard Deviation ? . While standard deviation is an important measure of investment risk , it is not the only one . There are many other measures investors can use to determine whether an asset is too risky for them — or not risky enough .
+--------------------------
+Calculating Standard Deviation . Standard deviation is calculated by first subtracting the mean from each value , and then squaring , adding , and averaging the differences to produce the variance . While variance itself is a useful indicator of range and volatility , the squaring of the individual differences means they are no longer reported in the same unit of measurement as the original data set .
+--------------------------
+Calculating Standard Deviation . For stock prices , the original data is in dollars and variance is in dollars squared , which is not a useful unit of measure . Standard deviation is simply the square root of the variance , bringing it back to the original unit of measure and making it much simpler to use and interpret .
+--------------------------
+Relating Standard Deviation to Risk . In investing , standard deviation is used as an indicator of market volatility and , therefore , of risk . The more unpredictable the price action and the wider the range , the greater the risk . Range - bound securities , or those that do not stray far from their means , are not considered a great risk . That 's because it can be assumed — with relative certainty — that they continue to behave in the same way . A security with a very large trading range and a tendency to spike , reverse suddenly , or gap is much riskier , which can mean a larger loss . But remember , risk is not necessarily a bad thing in the investment world . The riskier the security , the greater potential it has for payout .
+--------------------------
+. The higher the standard deviation , the riskier the investment .
+--------------------------
+. When using standard deviation to measure risk in the stock market , the underlying assumption is that the majority of price activity follows the pattern of a normal distribution . In a normal distribution , individual values fall within one standard deviation of the mean , above or below , 68 % of the time . Values are within two standard deviations 95 % of the time .
+--------------------------
+. For example , in a stock with a mean price of $ 45 and a standard deviation of $ 5 , it can be assumed with 95 % certainty the next closing price remains between $ 35 and $ 55 . However , price plummets or spikes outside of this range 5 % of the time . A stock with high volatility generally has a high standard deviation , while the deviation of a stable blue - chip stock is usually fairly low .
+--------------------------
+. So what can we determine from this ? The smaller the standard deviation , the less risky an investment will be . On the other hand , the larger the variance and standard deviation , the more volatile a security . While investors can assume price remains within two standard deviations of the mean 95 % of the time , this can still be a very large range . As with anything else , the greater the number of possible outcomes , the greater the risk of choosing the wrong one . ( For related reading , see " What Does Standard Deviation Measure In a Portfolio ? " )
+--------------------------

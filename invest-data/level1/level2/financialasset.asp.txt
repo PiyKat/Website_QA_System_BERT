@@ -1,0 +1,50 @@
+What Is a Financial Asset ? . A financial asset is a liquid asset that gets its value from a contractual right or ownership claim . Cash , stocks , bonds , mutual funds , and bank deposits are all are examples of financial assets . Unlike land , property , commodities , or other tangible physical assets , financial assets do not necessarily have inherent physical worth or even a physical form . Rather , their value reflects factors of supply and demand in the marketplace in which they trade , as well as the degree of risk they carry .
+--------------------------
+Understanding a Financial Asset . Most assets are categorized as either real , financial , or intangible . Real assets are physical assets that draw their value from substances or properties , such as precious metals , land , real estate , and commodities like soybeans , wheat , oil , and iron .
+--------------------------
+Understanding a Financial Asset . Intangible assets are the valuable property that is not physical in nature . They include patents , trademarks , and intellectual property .
+--------------------------
+Understanding a Financial Asset . Financial assets are in - between the other two assets . Financial assets may seem intangible — non - physical — with only the stated value on a piece of paper such as a dollar bill or a listing on a computer screen . What that paper or listing represents , though , is a claim of ownership of an entity , like a public company , or contractual rights to payments — say , the interest income from a bond . Financial assets derive their value from a contractual claim on an underlying asset .
+--------------------------
+Understanding a Financial Asset . This underlying asset may be either real or intangible . Commodities , for example , are the real , underlying assets that are pinned to such financial assets as commodity futures , contracts , or some exchange - traded funds ( ETFs ) . Likewise , real estate is the real asset associated with shares of real estate investment trusts ( REITs ) . REITs are financial assets and are publicly traded entities that own a portfolio of properties .
+--------------------------
+Understanding a Financial Asset . The Internal Revenue Service ( IRS ) requires businesses to report financial and real assets together as tangible assets for tax purposes . The grouping of tangible assets is separate from intangible assets .
+--------------------------
+Common Types of Financial Assets . According to the commonly cited definition from the International Financial Reporting Standards ( IFRS ) , financial assets include :
+--------------------------
+Common Types of Financial Assets . In addition to stocks and receivables , the above definition comprises financial derivatives , bonds , money market or other account holdings , and equity stakes . Many of these financial assets do not have a set monetary value until they are converted into cash , especially in the case of stocks where their value and price fluctuate .
+--------------------------
+Common Types of Financial Assets . Aside from cash , the more common types of financial assets that investors encounter are :
+--------------------------
+Pros and Cons of Highly Liquid Financial Assets . The purest form of financial assets is cash and cash equivalents — checking accounts , savings accounts , and money market accounts . Liquid accounts are easily turned into funds for paying bills and covering financial emergencies or pressing demands .
+--------------------------
+Pros and Cons of Highly Liquid Financial Assets . Other varieties of financial assets might not be as liquid . Liquidity is the ability to change a financial asset into cash quickly . For stocks , it is the ability of an investor to buy or sell holdings from a ready market . Liquid markets are those where there are plenty of buyers and plenty of sellers and no extended lag - time in trying to execute a trade .
+--------------------------
+Pros and Cons of Highly Liquid Financial Assets . In the case of equities like stocks and bonds , an investor has to sell and wait for the settlement date to receive their money — usually two business days . Other financial assets have varying lengths of settlement .
+--------------------------
+Pros and Cons of Highly Liquid Financial Assets . Maintaining funds in liquid financial assets can result in greater preservation of capital . Money in bank checking , savings , and CD accounts are insured against loss of up to $ 250,000 by the Federal Deposit Insurance Corporation ( FDIC)—the National Credit Union Administration ( NCUA ) for credit union accounts . If for some reason the bank fails , your account has dollar - for - dollar coverage up to $ 250,000 . However , since FDIC covers each financial institution individually , an investor with brokered CDs totaling over $ 250,000 in one bank faces losses if the bank becomes insolvent .
+--------------------------
+Pros and Cons of Highly Liquid Financial Assets . Liquid assets like checking and savings accounts have a limited return on investment ( ROI ) capability . ROI is the profit you receive from an asset less than the cost of owning that asset . In checking and savings accounts the ROI is minimal . They may provide modest interest income but , unlike equities , they offer little appreciation . Also , CDs and money market accounts restrict withdrawals for months or years . When interest rates fall , callable CDs are often called , and investors end up moving their money to potentially lower - income investments .
+--------------------------
+Pros and Cons of Highly Liquid Financial Assets . Liquid financial assets convert into cash easily .
+--------------------------
+Pros and Cons of Highly Liquid Financial Assets . Some financial assets have the ability to appreciate in value .
+--------------------------
+Pros and Cons of Highly Liquid Financial Assets . The FDIC and NCUA insure accounts up to $ 250,000 .
+--------------------------
+Pros and Cons of Highly Liquid Financial Assets . Highly liquid financial assets have little appreciation
+--------------------------
+Pros and Cons of Highly Liquid Financial Assets . Illiquid financial assets may be hard to convert to cash .
+--------------------------
+Pros and Cons of Highly Liquid Financial Assets . The value of a financial asset is only as strong as the underlying entity .
+--------------------------
+Illiquid Assets Pros and Cons . The opposite of a liquid asset is an illiquid asset . Real estate and fine antiques are examples of illiquid financial assets . These items have value but can not convert into cash quickly .
+--------------------------
+Illiquid Assets Pros and Cons . Another example of an illiquid financial asset are stocks that do not have a high volume of trading on the markets . Often these are investments like penny stocks or high - yield , speculative investments where there may not be a ready buyer when you are ready to sell .
+--------------------------
+Illiquid Assets Pros and Cons . Keeping too much money tied up in illiquid investments has drawbacks — even in ordinary situations . Doing so may result in an individual using a high - interest credit card to cover bills , increasing debt and negatively affecting retirement and other investment goals .
+--------------------------
+Real - World Example of Financial Assets . Businesses , as well as individuals , hold financial assets . In the case of an investment or asset management company , the financial assets include the money in the portfolios firm handles for clients , called assets under management ( AUM ) . For example , BlackRock Inc. is the largest investment manager in the U.S. and in the world , judging by its $ 6.5 trillion in AUM ( as of March 31 , 2019 ) .
+--------------------------
+Real - World Example of Financial Assets . In the case of banks , financial assets include the worth of the outstanding loans it has made to customers . Capital One , the 10th largest bank in the U.S. , reported $ 372,537,597 billion in total assets on its first - quarter 2019 financial statement ; of that , $ 247,090,748 billion were from real estate - secured , commercial , and industrial loans .
+--------------------------

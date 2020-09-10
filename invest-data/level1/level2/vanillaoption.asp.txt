@@ -1,0 +1,30 @@
+What is a Vanilla Option . A vanilla option is a financial instrument that gives the holder the right , but not the obligation , to buy or sell an underlying asset at a predetermined price within a given timeframe . A vanilla option is a call or put option that has no special or unusual features . Such options are standardized if traded on an exchange such as the Chicago Board Options Exchange .
+--------------------------
+Basics of a Vanilla Option . Vanilla options are used by Individuals , companies , and institutional investors to hedge their exposure in a particular asset or to speculate on the price movement of a financial instrument .
+--------------------------
+Basics of a Vanilla Option . If a vanilla option is not the right fit , exotic options such as barrier options , Asian options , and digital options are more customizable . Exotic options have more complex features and are generally traded over the counter ; they can be combined into complex structures to reduce the net cost or increase leverage .
+--------------------------
+Calls and Puts . There are two types of vanilla options : calls and puts . The owner of a call has the right , but not the obligation , to buy the underlying instrument at the strike price . The owner of a put has the right , but not the obligation , to sell the instrument at the strike price . The seller of the option is referred to as its writer . Shorting or writing an option creates an obligation to buy or sell the instrument if the option is exercised by its owner .
+--------------------------
+Calls and Puts . Calls and puts both have an expiry date . This puts a time limit on how long the underlying asset has to move .
+--------------------------
+Calls and Puts . For example , stock XYZ may be trading at $ 30 . A call option that expires in one month has a strike price or $ 31 . The cost of this option , called the premium , is $ 0.35 . Each option contract controls 100 shares , so buying one option costs $ 0.35 x 100 shares , or $ 35 .
+--------------------------
+Calls and Puts . If the price of XYZ stock moves above $ 31 , that option is in the money . But , the underlying asset needs to move above $ 31.35 in order for the buyer to start seeing a profit on the trade . The most the option buyer can lose is the amount they paid for the option . The profit potential is unlimited and depends on how far the underlying moves above the strike price .
+--------------------------
+Calls and Puts . The option writer gets the $ 35 for writing the option . If the price of XYZ stock stays below $ 31 , the writer keeps the premium . If the price rises above $ 31 , the option writer has an obligation to sell that stock to the option buyer at $ 31 even if the stock rises to $ 35 . This would represent a loss of [ ( ( $ 35 - $ 31 ) x 100 ) - $ 35 ] , or $ 365 . Then the option is said to be out of the money .
+--------------------------
+Vanilla Option Features . Every option has a strike price . If the strike price is better than the price in the underlying market at maturity , the option is deemed " in the money " and can be exercised by its owner . A European style option requires the option be in the money on the expiration date in order for it to be exercised ; an American style option can be exercised if it is in the money on or before the expiration date .
+--------------------------
+Vanilla Option Features . The premium is the price paid to own the option . The premium is based on how close the strike is to the price of the underlying ( in the money , out of the money , or at the money ) , the volatility of the underlying asset , and the time until expiration . Higher volatility and a longer maturity increase the premium .
+--------------------------
+Vanilla Option Features . An option gains intrinsic value , or moves into the money , as the underlying surpasses the strike price — above the strike for a call and below the strike for a put .
+--------------------------
+Vanilla Option Features . Option traders do n't need to wait until expiry to close out an options trade , nor do they need to exercise the option . They can take an offsetting position at any time to close the options trade and realize their profit or loss on the option .
+--------------------------
+Key Takeaways .
+--------------------------
+Exotic and Binary Options . Two other types of options can be combined with vanill options to create tailor - made outcomes . The first type of options are exotic options , which have conditions or calculations attached to their execution . For example , barrier options include a level that , if reached , causes the option to begin to exist or cease to exist . Digital options pay the owner , if the underlying is above or below a specific price level . An Asian option 's payoff depends on the average traded price of the underlying instrument during the life of the option .
+--------------------------
+Exotic and Binary Options . The second type of options which can be combined with vanilla options are binary options . The outcome of such options is typically restricted to just two possible results , meaning that the payouts are also restricted . They are typically used to speculate on price movements of an asset . A possible combination between binary and vanilla options would be the purchase of a call / put vanilla option and a binary option in the opposite direction of the former .
+--------------------------

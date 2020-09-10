@@ -1,0 +1,1 @@
+ What is an Underlying Asset . Underlying asset are the financial assets upon which a derivative’s price is based. Options are an example of a derivative. A derivative is a financial instrument with a price that is based on a different asset. 

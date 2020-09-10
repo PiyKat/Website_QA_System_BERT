@@ -1,0 +1,30 @@
+What Is the Binomial Option Pricing Model ? . The binomial option pricing model is an options valuation method developed in 1979 . The binomial option pricing model uses an iterative procedure , allowing for the specification of nodes , or points in time , during the time span between the valuation date and the option 's expiration date .
+--------------------------
+Key Takeaways . The model reduces possibilities of price changes and removes the possibility for arbitrage . A simplified example of a binomial tree might look something like this :
+--------------------------
+Basics of the Binomial Option Pricing Model . With binomial option price models , the assumptions are that there are two possible outcomes , hence the binomial part of the model . With a pricing model , the two outcomes are a move up , or a move down . The major advantage to a binomial option pricing model is that they ’re mathematically simple . Yet these models can become complex in a multi - period model .
+--------------------------
+Basics of the Binomial Option Pricing Model . In contrast to the Black - Scholes model , which provides a numerical result based on inputs , the binomial model allows for the calculation of the asset and the option for multiple periods along with the range of possible results for each period ( see below ) .
+--------------------------
+Basics of the Binomial Option Pricing Model . The advantage of this multi - period view is that the user can visualize the change in asset price from period to period and evaluate the option based on decisions made at different points in time . For a U.S - based option , which can be exercised at any time before the expiration date , the binomial model can provide insight as to when exercising the option may be advisable and when it should be held for longer periods . By looking at the binomial tree of values , a trader can determine in advance when a decision on an exercise may occur . If the option has a positive value , there is the possibility of exercise whereas , if the option has a value less than zero , it should be held for longer periods .
+--------------------------
+Calculating Price with the Binomial Model . The basic method of calculating the binomial option model is to use the same probability each period for success and failure until the option expires . However , a trader can incorporate different probabilities for each period based on new information obtained as time passes .
+--------------------------
+Calculating Price with the Binomial Model . A binomial tree is a useful tool when pricing American options and embedded options . Its simplicity is its advantage and disadvantage at the same time . The tree is easy to model out mechanically , but the problem lies in the possible values the underlying asset can take in one period time . In a binomial tree model , the underlying asset can only be worth exactly one of two possible values , which is not realistic , as assets can be worth any number of values within any given range .
+--------------------------
+Calculating Price with the Binomial Model . For example , there may be a 50/50 chance that the underlying asset price can increase or decrease by 30 percent in one period . For the second period , however , the probability that the underlying asset price will increase may grow to 70/30 .
+--------------------------
+Calculating Price with the Binomial Model . For example , if an investor is evaluating an oil well , that investor is not sure what the value of that oil well is , but there is a 50/50 chance that the price will go up . If oil prices go up in Period 1 making the oil well more valuable and the market fundamentals now point to continued increases in oil prices , the probability of further appreciation in price may now be 70 percent . The binomial model allows for this flexibility ; the Black - Scholes model does not .
+--------------------------
+Real World Example of Binomial Option Pricing Model . A simplified example of a binomial tree has only one step . Assume there is a stock that is priced at $ 100 per share . In one month , the price of this stock will go up by $ 10 or go down by $ 10 , creating this situation :
+--------------------------
+Real World Example of Binomial Option Pricing Model . Next , assume there is a call option available on this stock that expires in one month and has a strike price of $ 100 . In the up state , this call option is worth $ 10 , and in the down state , it is worth $ 0 . The binomial model can calculate what the price of the call option should be today .
+--------------------------
+Real World Example of Binomial Option Pricing Model . For simplification purposes , assume that an investor purchases one - half share of stock and writes or sells one call option . The total investment today is the price of half a share less the price of the option , and the possible payoffs at the end of the month are :
+--------------------------
+Real World Example of Binomial Option Pricing Model . The portfolio payoff is equal no matter how the stock price moves . Given this outcome , assuming no arbitrage opportunities , an investor should earn the risk - free rate over the course of the month . The cost today must be equal to the payoff discounted at the risk - free rate for one month . The equation to solve is thus :
+--------------------------
+Real World Example of Binomial Option Pricing Model . Assuming the risk - free rate is 3 % per year , and T equals 0.0833 ( one divided by 12 ) , then the price of the call option today is $ 5.11 .
+--------------------------
+Real World Example of Binomial Option Pricing Model . Due to its simple and iterative structure , the binomial option pricing model presents certain unique advantages . For example , since it provides a stream of valuations for a derivative for each node in a span of time , it is useful for valuing derivatives such as American options — which can be executed anytime between the purchase date and expiration date . It is also much simpler than other pricing models such as the Black - Scholes model .
+--------------------------

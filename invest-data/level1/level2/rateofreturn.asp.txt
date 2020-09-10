@@ -1,0 +1,40 @@
+What Is a Rate of Return ( RoR ) ? . A rate of return ( RoR ) is the net gain or loss on an investment over a specified time period , expressed as a percentage of the investment ’s initial cost . Gains on investments are defined as income received plus any capital gains realized on the sale of the investment .
+--------------------------
+What Is the Formula for RoR ? . ﻿Rate of return=[(Current value−Initial value)Initial value]×100\text{Rate of return } = [ \frac{(\text{Current value } - \text{Initial value})}{\text{Initial value}}]\times 100Rate of return=[Initial value(Current value−Initial value)​]×100﻿
+--------------------------
+What Is the Formula for RoR ? . This simple rate of return is sometimes called the basic growth rate , or alternatively , return on investment , or ROI . If you also consider the effect of the time value of money and inflation , the real rate of return can also be defined as the net amount of discounted cash flows received on an investment after adjusting for inflation .
+--------------------------
+What Does the RoR Tell You ? . A rate of return can be applied to any investment vehicle , from real estate to bonds , stocks , and fine art . RoR works with any asset provided the asset is purchased at one point in time and produces cash flow at some point in the future . Investments are assessed based , in part , on past rates of return , which can be compared against assets of the same type to determine which investments are the most attractive . Many investors like to pick a required rate of return before making a choice .
+--------------------------
+RoR vs. Stocks and Bonds . The rate of return calculations for stocks and bonds are slightly different . Assume an investor buys a stock for $ 60 a share , owns the stock for five years , and earns a total amount of $ 10 in dividends . If the investor sells the stock for $ 80 , his per share gain is $ 80 - $ 60 = $ 20 . In addition , he has earned $ 10 in dividend income for a total gain of $ 20 + $ 10 = $ 30 . The rate of return for the stock is thus $ 30 gain per share , divided by the $ 60 cost per share , or 50 % .
+--------------------------
+RoR vs. Stocks and Bonds . On the other hand , consider an investor that pays $ 1,000 for a $ 1,000 par value 5 % coupon bond . The investment earns $ 50 in interest income per year . If the investor sells the bond for $ 1,100 premium value and earns $ 100 in total interest , the investor ’s rate of return is the $ 100 gain on the sale plus $ 100 interest income divided by the $ 1,000 initial cost or 20 % .
+--------------------------
+Real vs. Nominal Rates of Return . The simple rate of return used in the first example above with buying a home is considered a nominal rate of return since it does not account for the effect of inflation over time . Inflation reduces the purchasing power of money , and so $ 335,000 six years from now is not the same as $ 335,000 today .
+--------------------------
+Real vs. Nominal Rates of Return . Likewise , $ 250,000 today is not worth the same as $ 250,000 six years from now . Discounting is one way to account for the time value of money . Once the effect of inflation is taken into account , we call that the real rate of return ( or the inflation - adjusted rate of return ) .
+--------------------------
+RoR vs. CAGR . A closely related concept to the simple rate of return is the compound annual growth rate , or CAGR . The CAGR is the mean annual rate of return of an investment over a specified period of time longer than one year , which means the calculation must factor in growth over multiple periods .
+--------------------------
+RoR vs. CAGR . To calculate compound annual growth rate , we divide the value of an investment at the end of the period in question by its value at the beginning of that period , raise the result to the power of one divided by the number of holding periods , such as years , and subtract one from the subsequent result .
+--------------------------
+Example of How to Use the RoR . The rate of return can be calculated for any investment , dealing with any kind of asset . Let 's take the example of purchasing a home as a basic example for understanding how to calculate the RoR. Say that you buy a house for $ 250,000 ( for simplicity let 's assume you pay 100 % cash ) .
+--------------------------
+Example of How to Use the RoR . Six years later , you decide to sell the house — maybe your family is growing and you need to move into a larger place . You are able to sell the house for $ 335,000 , after deducting any realtor 's fees and taxes . The simple rate of return on the purchase and sale of the house is as follows :
+--------------------------
+Example of How to Use the RoR . ﻿(335,000−250,000)250,000×100=34%\frac{(335,000 - 250,000)}{250,000 } \times 100 = 34\%250,000(335,000−250,000)​×100=34%﻿
+--------------------------
+Example of How to Use the RoR . Now , what if , instead , you sold the house for less than you paid for it — say , for $ 187,500 ? The same equation can be used to calculate your loss , or the negative rate of return , on the transaction :
+--------------------------
+Example of How to Use the RoR . ﻿(187,500−250,000)250,000×100=−25%\frac{(187,500 - 250,000)}{250,000 } \times 100 = -25\%250,000(187,500−250,000)​×100=−25%﻿
+--------------------------
+Example of IRR and DCF . The next step in understanding RoR over time is to account for the time value of money ( TVM ) , which the CAGR ignores . Discounted cash flows take the earnings on investment and discount each of the cash flows based on a discount rate . The discount rate represents a minimum rate of return acceptable to the investor , or an assumed rate of inflation . In addition to investors , businesses use discounted cash flows to assess the profitability of their investments .
+--------------------------
+Example of IRR and DCF . Assume , for example , a company is considering the purchase of a new piece of equipment for $ 10,000 , and the firm uses a discount rate of 5 % . After a $ 10,000 cash outflow , the equipment is used in the operations of the business and increases cash inflows by $ 2,000 a year for five years . The business applies present value table factors to the $ 10,000 outflow and to the $ 2,000 inflow each year for five years .
+--------------------------
+Example of IRR and DCF . The $ 2,000 inflow in year five would be discounted using the discount rate at 5 % for five years . If the sum of all the adjusted cash inflows and outflows is greater than zero , the investment is profitable . A positive net cash inflow also means the rate of return is higher than the 5 % discount rate .
+--------------------------
+Example of IRR and DCF . The rate of return using discounted cash flows is also known as the internal rate of return , or IRR . The internal rate of return is a discount rate that makes the net present value ( NPV ) of all cash flows from a particular project or investment equal to zero . IRR calculations rely on the same formula as NPV does and utilize the time value of money ( using interest rates ) . The formula for IRR is as follows :
+--------------------------
+Example of IRR and DCF . ﻿IRR = NPV=∑t=1TCt(1+r)t−C0=0where : T = total number of time periodst = time periodCt = net cash inflow - outflows during a single period tC0 = baseline cash inflow - outflowsr = discount rate\begin{aligned } & IRR = NPV = \sum_{t = 1}^T \frac{C_t}{(1 + r)^t } - C_0 = 0 \\ & \textbf{where:}\\ & T=\text{total number of time periods}\\ & t = \text{time period}\\ & C_t = \text{net cash inflow - outflows during a single period } t \\ & C_0 = \text{baseline cash inflow - outflows}\\ & r = \text{discount rate}\\ \end{aligned}​IRR = NPV = t=1∑T​(1+r)tCt​​−C0​=0where : T = total number of time periodst = time periodCt​=net cash inflow - outflows during a single period tC0​=baseline cash inflow - outflowsr = discount rate​﻿
+--------------------------

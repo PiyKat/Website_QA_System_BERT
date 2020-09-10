@@ -1,0 +1,46 @@
+What Is a Bull Call Spread ? . A bull call spread is an options trading strategy designed to benefit from a stock 's limited increase in price . The strategy uses two call options to create a range consisting of a lower strike price and an upper strike price . The bullish call spread helps to limit losses of owning stock , but it also caps the gains . Commodities , bonds , stocks , currencies , and other assets form the underlying holdings for call options .
+--------------------------
+The Basics of a Call Option . Call options can be used by investors to benefit from upward moves in a stock 's price . If exercised before the expiration date , these trading options allow the investor to buy shares at a stated price — the strike price . The option does not require the holder to purchase the shares if they choose not to . Traders who believe a particular stock is favorable for an upward price movement will use call options .
+--------------------------
+The Basics of a Call Option . The bullish investor would pay an upfront fee — the premium — for the call option . Premiums base their price on the spread between the stock 's current market price and the strike price . If the option 's strike price is near the stock 's current market price , the premium will likely be expensive . The strike price is the price at which the option gets converted to the stock at expiry .
+--------------------------
+The Basics of a Call Option . Should the underlying asset fall to less than the strike price , the holder will not buy the stock but will lose the value of the premium at expiration . If the share price moves above the strike price the holder may decide to purchase shares at that price but are under no obligation to do so . Again , in this scenario , the holder would be out the price of the premium .
+--------------------------
+The Basics of a Call Option . An expensive premium might make a call option not worth buying since the stock 's price would have to move significantly higher to offset the premium paid . Called the break - even point ( BEP ) , this is the price equal to the strike price plus the premium fee .
+--------------------------
+The Basics of a Call Option . The broker will charge a fee for placing an options trade and this expense factors into the overall cost of the trade . Also , options contracts are priced by lots of 100 shares . So , buying one contract equates to 100 shares of the underlying asset .
+--------------------------
+Building a Bull Call Spread . The bull call spread reduces the cost of the call option , but it comes with a trade - off . The gains in the stock 's price are also capped , creating a limited range where the investor can make a profit . Traders will use the bull call spread if they believe an asset will moderately rise in value . Most often , during times of high volatility , they will use this strategy .
+--------------------------
+Building a Bull Call Spread . The bull call spread consists of steps involving two call options .
+--------------------------
+Building a Bull Call Spread . By selling a call option , the investor receives a premium , which partially offsets the price they paid for the first call . In practice , investor debt is the net difference between the two call options , which is the cost of the strategy .
+--------------------------
+Realizing Profits From Bull Call Spreads . The losses and gains from the bull call spread are limited due to the lower and upper strike prices . If at expiry , the stock price declines below the lower strike price — the first , purchased call option — the investor does not exercise the option . The option strategy expires worthlessly , and the investor loses the net premium paid at the onset . If they exercise the option , they would have to pay more — the selected strike price — for an asset that is currently trading for less .
+--------------------------
+Realizing Profits From Bull Call Spreads . If at expiry , the stock price has risen and is trading above the upper strike price — the second , sold call option — the investor exercises their first option with the lower strike price . Now , they may purchase the shares for less than the current market value .
+--------------------------
+Realizing Profits From Bull Call Spreads . However , the second , sold call option is still active . The options marketplace will automatically exercise or assign this call option . The investor will sell the shares bought with the first , lower strike option for the higher , second strike price . As a result , the gains earned from buying with the first call option are capped at the strike price of the sold option . The profit is the difference between the lower strike price and upper strike price minus , of course , the net cost or premium paid at the onset .
+--------------------------
+Realizing Profits From Bull Call Spreads . With a bull call spread , the losses are limited reducing the risk involved since the investor can only lose the net cost to create the spread . However , the downside to the strategy is that the gains are limited as well .
+--------------------------
+Realizing Profits From Bull Call Spreads . Investors can realize limited gains from an upward move in a stock 's price
+--------------------------
+Realizing Profits From Bull Call Spreads . A bull call spread is cheaper than buying an individual call option by itself
+--------------------------
+Realizing Profits From Bull Call Spreads . The bullish call spread limits the maximum loss of owning a stock to the net cost of the strategy
+--------------------------
+Realizing Profits From Bull Call Spreads . The investor forfeits any gains in the stock 's price above the strike of the sold call option
+--------------------------
+Realizing Profits From Bull Call Spreads . Gains are limited given the net cost of the premiums for the two call options
+--------------------------
+A Real World Example of a Bull Call Spread . An options trader buys 1 Citigroup Inc. ( C ) June 21 call at the $ 50 strike price and pays $ 2 per contract when Citigroup is trading at $ 49 per share .
+--------------------------
+A Real World Example of a Bull Call Spread . At the same time , the trader sells 1 Citi June 21 call at the $ 60 strike price and receives $ 1 per contract . Because the trader paid $ 2 and received $ 1 , the trader ’s net cost to create the spread is $ 1.00 per contract or $ 100 . ( $ 2 long call premium minus $ 1 short call profit = $ 1 multiplied by 100 contract size = $ 100 net cost plus , your broker 's commission fee )
+--------------------------
+A Real World Example of a Bull Call Spread . If the stock falls below $ 50 , both options expire worthlessly , and the trader loses the premium paid of $ 100 or the net cost of $ 1 per contract .
+--------------------------
+A Real World Example of a Bull Call Spread . Should the stock increase to $ 61 , the value of the $ 50 call would rise to $ 10 , and the value of the $ 60 call would remain at $ 1 . However , any further gains in the $ 50 call are forfeited , and the trader ’s profit on the two call options would be $ 9 ( $ 10 gain - $ 1 net cost ) . The total profit would be $ 900 ( or $ 9 x 100 shares ) .
+--------------------------
+A Real World Example of a Bull Call Spread . To put it another way , if the stock fell to $ 30 , the maximum loss would be only $ 1.00 , but if the stock soared to $ 100 , the maximum gain would be $ 9 for the strategy .
+--------------------------

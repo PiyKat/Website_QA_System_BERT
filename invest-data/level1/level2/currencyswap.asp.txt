@@ -1,0 +1,22 @@
+What Is a Currency Swap ? . A currency swap , sometimes referred to as a cross - currency swap , involves the exchange of interest – and sometimes of principal – in one currency for the same in another currency . Interest payments are exchanged at fixed dates through the life of the contract . It is considered to be a foreign exchange transaction and is not required by law to be shown on a company 's balance sheet .
+--------------------------
+The Basics of Currency Swaps . Currency swaps were originally done to get around exchange controls , governmental limitations on the purchase and/or sale of currencies . Although nations with weak and/or developing economies generally use foreign exchange controls to limit speculation against their currencies , most developed economies have eliminated controls nowadays .
+--------------------------
+The Basics of Currency Swaps . So swaps are now done most commonly to hedge long - term investments and to change the interest rate exposure of the two parties . Companies doing business abroad often use currency swaps to get more favorable loan rates in the local currency than they could if they borrowed money from a bank in that country .
+--------------------------
+. Currency swaps are important financial instruments used by banks , investors , and multinational corporations .
+--------------------------
+How a Currency Swap Works . In a currency swap , the parties agree in advance whether or not they will exchange the principal amounts of the two currencies at the beginning of the transaction . The two principal amounts create an implied exchange rate . For example , if a swap involves exchanging € 10 million versus $ 12.5 million , that creates an implied EUR / USD exchange rate of 1.25 . At maturity , the same two principal amounts must be exchanged , which creates exchange rate risk as the market may have moved far from 1.25 in the intervening years .
+--------------------------
+How a Currency Swap Works . Pricing is usually expressed as London Interbank Offered Rate ( LIBOR ) , plus or minus a certain number of points , based on interest rate curves at inception and the credit risk of the two parties .
+--------------------------
+How a Currency Swap Works . A currency swap can be done in several ways . Many swaps use simply notional principal amounts , which means that the principal amounts are used to calculate the interest due and payable each period but is not exchanged .
+--------------------------
+How a Currency Swap Works . If there is a full exchange of principal when the deal is initiated , the exchange is reversed at the maturity date . Currency swap maturities are negotiable for at least 10 years , making them a very flexible method of foreign exchange . Interest rates can be fixed or floating .
+--------------------------
+. India and Japan signed a bilateral currency swap agreement worth $ 75 billion in October 2018 to bring stability to forex and capital markets in India .
+--------------------------
+Exchange of Interest Rates in Currency Swaps . There are three variations on the exchange of interest rates : fixed rate to fixed rate ; floating rate to floating rate ; or fixed rate to floating rate . This means that in a swap between euros and dollars , a party that has an initial obligation to pay a fixed interest rate on a euro loan can exchange that for a fixed interest rate in dollars or for a floating rate in dollars . Alternatively , a party whose euro loan is at a floating interest rate can exchange that for either a floating or a fixed rate in dollars . A swap of two floating rates is sometimes called a basis swap .
+--------------------------
+Exchange of Interest Rates in Currency Swaps . Interest rate payments are usually calculated quarterly and exchanged semi - annually , although swaps can be structured as needed . Interest payments are generally not netted because they are in different currencies .
+--------------------------

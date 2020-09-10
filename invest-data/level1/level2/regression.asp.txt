@@ -1,0 +1,22 @@
+What Is Regression ? . Regression is a statistical measurement used in finance , investing , and other disciplines that attempts to determine the strength of the relationship between one dependent variable ( usually denoted by Y ) and a series of other changing variables ( known as independent variables ) .
+--------------------------
+What Is Regression ? . Regression helps investment and financial managers to value assets and understand the relationships between variables , such as commodity prices and the stocks of businesses dealing in those commodities .
+--------------------------
+Regression Explained . The two basic types of regression are linear regression and multiple linear regression , although there are non - linear regression methods for more complicated data and analysis . Linear regression uses one independent variable to explain or predict the outcome of the dependent variable Y , while multiple regression uses two or more independent variables to predict the outcome .
+--------------------------
+Regression Explained . Regression can help finance and investment professionals as well as professionals in other businesses . Regression can also help predict sales for a company based on weather , previous sales , GDP growth , or other types of conditions . The capital asset pricing model ( CAPM ) is an often - used regression model in finance for pricing assets and discovering costs of capital .
+--------------------------
+Regression Explained . The general form of each type of regression is :
+--------------------------
+Regression Explained . Where :
+--------------------------
+. There are two basic types of regression : linear regression and multiple linear regression .
+--------------------------
+. Regression takes a group of random variables , thought to be predicting Y , and tries to find a mathematical relationship between them . This relationship is typically in the form of a straight line ( linear regression ) that best approximates all the individual data points . In multiple regression , the separate variables are differentiated by using numbers with subscripts .
+--------------------------
+A Real World Example of How Regression Analysis Is Used . Regression is often used to determine how many specific factors such as the price of a commodity , interest rates , particular industries , or sectors influence the price movement of an asset . The aforementioned CAPM is based on regression , and it is utilized to project the expected returns for stocks and to generate costs of capital . A stock 's returns are regressed against the returns of a broader index , such as the S&P 500 , to generate a beta for the particular stock .
+--------------------------
+A Real World Example of How Regression Analysis Is Used . Beta is the stock 's risk in relation to the market or index and is reflected as the slope in the CAPM model . The expected return for the stock in question would be the dependent variable Y , while the independent variable X would be the market risk premium .
+--------------------------
+A Real World Example of How Regression Analysis Is Used . Additional variables such as the market capitalization of a stock , valuation ratios , and recent returns can be added to the CAPM model to get better estimates for returns . These additional factors are known as the Fama - French factors , named after the professors who developed the multiple linear regression model to better explain asset returns .
+--------------------------

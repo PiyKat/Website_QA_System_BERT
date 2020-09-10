@@ -1,0 +1,1 @@
+ Finding VaR in Excel . Outlined below is the variance-covariance method of finding VaR [please right-click and select open image in new tab to get the full resolution of the table]:

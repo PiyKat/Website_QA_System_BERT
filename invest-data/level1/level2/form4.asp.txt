@@ -1,0 +1,16 @@
+What Is SEC Form 4 : Statement of Changes in Beneficial Ownership ? . SEC Form 4 : Statement of Changes in Beneficial Ownership is a document that must be filed with the Securities and Exchange Commission ( SEC ) whenever there is a material change in the holdings of company insiders . Insiders consist of directors and officers of the company , as well as any shareholders , owning 10 % or more of the company 's outstanding stock . The forms ask about the reporting person 's relationship to the company and about purchases and sales of such equity securities .
+--------------------------
+What Is SEC Form 4 : Statement of Changes in Beneficial Ownership ? . The filing of Form 4 relates to Sections 16(a ) and 23(a ) of the Securities Exchange Act of 1934 , as well as Sections 30(h ) and 38 of the Investment Company Act of 1940 . Disclosure of information required on Form 4 is mandatory and becomes public record upon filing .
+--------------------------
+Who Can File SEC Form 4 : Statement of Changes in Beneficial Ownership ? . This two - page document covers any buy - and - sell orders on the open market , as well as the exercise of company stock options . A Form 4 is required to be filed by a company when there is a change in the holdings of company insiders . This filing is related to the Form 3 and the Form 5 , which also cover changes to the company insider holdings . The SEC is able to use the information in the referral of a case to other governmental authorities and self - regulatory organizations ( SROs ) . If a party fails to disclose required information on a Form 4 , civil or criminal actions could result .
+--------------------------
+. The SEC has the capacity to use information disclosed on Form 4 in investigations or litigation involving federal securities laws , in addition to other civil , criminal , or regulatory statutes or provisions .
+--------------------------
+How to File SEC Form 4 : Statement of Changes in Beneficial Ownership . In general , a party must file Form 4 electronically via the Commission ’s Electronic Data Gathering Analysis and Retrieval System ( EDGAR ) . Exceptions can occur during a hardship . It is mandatory within two business days starting from the end of the day the material transaction occurred .
+--------------------------
+Practical Example of SEC Form 4 . In December 2017 , the Chief Administrative and Internal Operations Officer of the public company TiVo ( ticker : TIVO ) filed Form 4 as an individual . The form disclosed the physical address of TiVo in San Jose , CA , the date of transaction of common stock , transaction code , amount and price of securities transacted , and amount of securities beneficially owned following the transaction .
+--------------------------
+Forms Related to SEC Form 4 . Several other forms are critical to maintaining transparency and recording the actions of public company executives , officers , and directors . These include the annual report 10-K , the quarterly 10-Q , S-1 , and S-1A forms upon going public , the 8-K for unscheduled material events or corporate changes , and others .
+--------------------------
+Download SEC Form 4 : Statement of Changes in Beneficial Ownership . Here is a link to a downloadable SEC Form 4 : Statement of Changes in Beneficial Ownership .
+--------------------------

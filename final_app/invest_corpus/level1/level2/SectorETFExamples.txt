@@ -1,0 +1,1 @@
+ Sector ETF Examples . The 11 broad GICS sectors commonly used for sector breakdown reporting include the following (next to each sector is the ticker symbol for a corresponding sector ETF. More than one ETF exists for each sector):

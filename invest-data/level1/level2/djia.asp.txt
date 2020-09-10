@@ -1,0 +1,28 @@
+What Is the Dow Jones Industrial Average ( DJIA ) ? . The Dow Jones Industrial Average ( DJIA ) is an index that tracks 30 large , publicly - owned companies trading on the New York Stock Exchange ( NYSE ) and the NASDAQ . The Dow Jones is named after Charles Dow , who created it in 1896 , and his business partner , Edward Jones .
+--------------------------
+What Is the Dow Jones Industrial Average ( DJIA ) ? . Often referred to as " the Dow , " the DJIA is one of the oldest , single most - watched indices in the world . To investors , the Dow Jones is defined as a collection of blue - chip companies with consistently stable earnings that include Walt Disney Company , Exxon Mobil Corporation , and Microsoft Corporation . When the TV networks say " the market is up today , " they are generally referring to the Dow .
+--------------------------
+Understanding the Dow Jones Industrial Average . The Dow Jones Industrial Average is the second oldest U.S. market index after the Dow Jones Transportation Average , which contains 20 transport stocks such as railroad and trucking companies . The Dow Jones Industrial Average was designed to serve as a proxy for the broader U.S. economy .
+--------------------------
+Understanding the Dow Jones Industrial Average . When the Dow Jones index launched , it included just 12 companies that were almost purely industrial in nature . The early components of the Dow operated in industries that included railroads , cotton , gas , sugar , tobacco , and oil . The performance of industrial companies is typically tied to the growth rate in the economy . As a result , the relationship between the Dow 's performance and that of the economy was cemented . Even today , to many investors , a strong Dow means a strong economy while a weak - performing Dow means a slowing economy .
+--------------------------
+Understanding the Dow Jones Industrial Average . As the economy changes over time , so does the composition of the index . The Dow typically makes changes when a company becomes less representative of the economy or when a broader economic shift occurs , and a change needs to be made to reflect it .
+--------------------------
+Understanding the Dow Jones Industrial Average . For example , a company that loses market capitalization due to financial distress might be removed from the Dow . Market capitalization is a method of measuring the value of a company by multiplying the number of shares outstanding to its stock price . ( For related reading , see " What Does the Dow Jones Industrial Average Measure ? " )
+--------------------------
+How the Index Is Calculated . Stocks with higher share prices are given greater weight in the index . So , a higher percentage move in a higher - priced component will have a greater impact on the final calculated value . At the Dow 's inception , Charles Dow calculated the average by adding the prices of the twelve Dow component stocks and dividing by twelve with the end result being a simple average . Over time , there have been additions and subtractions to the index , such as mergers and stock splits that had to be accounted for whereby an arithmetic mean would not suffice any longer .
+--------------------------
+How the Index Is Calculated . This led to the advent of the Dow Divisor , a predetermined constant ( though it can be changed if the need should arise ) that is used to determine the effect of a one - point move in any of the thirty stocks that comprise the Dow . There have been instances ( components added or removed , stock splits , etc . ) when the divisor needed to be changed so that the value of DJIA stayed consistent . The current divisor can be found in the Wall Street Journal and is 0.14748071991788 .
+--------------------------
+How the Index Is Calculated . The key point about the DJIA is that it is not a weighted arithmetic average , nor does it represent its component companies ' market capitalization as does the S&P 500 . Rather , it reflects the sum of the price of one share of stock for all the components , divided by the divisor . Thus , a one - point move in any of the component stocks will move the index by an identical number of points .
+--------------------------
+How the Index Is Calculated . DJIA = SUM ( Component stock prices ) / Dow Divisor
+--------------------------
+Changes to the Index Over Time . The index grew to 30 components in 1928 and has changed components a total of 51 times . The first change came just three months after the index was launched . In its first few years until roughly the Great Depression , there were many changes to its components . In 1932 , eight stocks within the Dow were replaced . However , during this change , the Coca - Cola Company and Procter & Gamble Co. were added to the index , two stocks that are still part of the Dow in 2019 .
+--------------------------
+Changes to the Index Over Time . The most recent large scale change to the Dow took place in 1997 when four of the index 's components were replaced . Two years later , in 1999 , four more components of the Dow were changed . The most recent change took place on June 26 , 2018 , when Walgreens Boots Alliance , Inc. replaced General Electric Company .
+--------------------------
+Components of the Dow . The table below alphabetically lists the companies included in the DJIA as of March 18 , 2019 :
+--------------------------
+Key Historical Dates for the DJIA . The following are some of the milestones hit by the DJIA :
+--------------------------

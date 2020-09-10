@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="icon" href="static/images/favicon.ico" type="image/gif" sizes="16x16">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title>Web Scraping Demo</title>
+
+    <!-- Main css -->
+    <link rel="stylesheet" href="static/styles.css">
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+        const api1 = 'http://localhost:5000/data';
+        const api2 = 'http://localhost:5000/data2';
+		let url_id;
+
+		$('document').ready(function() {
+            
+			$('.loading').hide();
+			$("#submitblock").show();
+			$(".answer").hide();
+            $('#questionBlock').hide();
+
+            let that = this;
+
+            $('#goBtn').click(function(e) {
+                let url = $('#url').val();
+
+				if (url == "") {
+					$('.loading').show();
+                    $("#loadingblock > strong").text("URL is compulsory")
+                    return false;
+				}
+
+                if ( !url.match(new RegExp(/[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)?/gi)) ) {
+                    $('.loading').show();
+                    $("#loadingblock > strong").text("Please enter a valid URL")
+                    return false;
+                }
+
+                $.ajax({
+                    type: 'POST',
+                    url: api1,
+                    data: JSON.stringify({ url: $('#url').val() }),
+					contentType: "application/json; charset=utf-8",
+					dataType: "json",
+                    beforeSend: function(xhr) {
+                        $('#url').prop("disabled", true);
+                        $(".loading").hide();
+						console.log({ "url": $('#url').val() });
+                    },
+                    success: function(result) {
+                        if (result.status == 0) {
+                            throw new Error();
+                        }
+                        $('#url_id').val(result.id);
+						url_id = result.id;
+                        console.log('Got', result);
+                        $('#questionBlock').show();
+                        $("#url").prop("disabled", false);
+                    },
+                    timeout: 500000,
+					error: function(jqXHR, textStatus, error) {
+                        $('.loading').show();
+                        $("#loadingblock > strong").text("Invalid request")
+                        console.log('error');
+				    }
+                })
+
+                return false;
+            })
+            
+			$("#submitBtn").click(function(e) {
+				var url = $("#url").val();	
+				var q1 = $("#question").val();
+				console.log(url_id);
+
+				if (url == "" || q1 == "") {
+                    $('.loading').show();
+                    $("#loadingblock > strong").text("URL and question are compulsory")
+                    return false;
+				}
+
+                if ( !url.match(new RegExp(/[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)?/gi)) ) {
+                    $('.loading').show();
+                    $("#loadingblock > strong").text("Please enter a valid URL")
+                    return false;
+                }
+
+				$("#submitblock").hide();
+				$(".loading").show();
+				$("#loadingblock > strong").text("Your data is being processed. Please wait.");
+				$(".answer").hide();
+
+				let formData = new FormData(document.getElementById('mainForm'));
+                console.log(JSON.stringify(Object.fromEntries(formData)));
+				$.ajax({
+					type: 'POST',					
+					url: api2, // my API link
+					data: JSON.stringify(Object.fromEntries(formData)),
+					contentType: "application/json; charset=utf-8",
+					dataType: "json",
+					beforeSend: function(xhr) {
+						console.log(JSON.stringify(Object.fromEntries(formData)));
+						$("#question").prop("disabled", true);
+                        $(".answer").remove();
+					},
+					success: function(result) {
+                        console.log(result);
+						$('.answer').show();
+
+                        for (let ans of result.data) {
+                            ans.confidence = ans.confidence;
+                            let t = '<p>'+ans.answer+'<br><b>Confidence: '+ans.confidence+'</b></p>';
+                            $('<div class="alert alert-info answer">'+t+'</div>').appendTo($('#questionBlock'));
+                        }
+
+						$("#submitblock").show();
+						$(".loading").hide();
+						$("#question").prop("disabled", false);
+					},
+					timeout: 500000,
+					error: function(jqXHR, textStatus, error) {
+                        console.log(textStatus, error);
+				        $("#submitblock").show();						
+						$(".answer").hide();
+						$("#question").prop("disabled", false);
+						$("#loadingblock > strong").text("Currently the test server is down. Please try again after sometime. Sorry for inconvenience.")
+						$("#submitBtn").val("Try Again")
+				    }		
+				});
+
+                return false;			
+			});		
+		});
+	</script>
+		
+	<style>
+		.answer {
+			margin-top: 5px;
+		}
+	</style>
+</head>
+<body>
+    <nav class="navbar navbar-light bg-light">
+        <a class="navbar-brand" href="#">
+            <img src="static/images/iris-logo.png" width="300" class="d-inline-block align-top" alt="">
+        </a>
+    </nav>
+    <div class="main">
+        <section class="signup">
+            <div class="container">
+                <div class="signup-content">
+                    <form method="POST" id="mainForm">
+                        <h2 class="form-title">Web Scraping Question & Answer Demo</h2>
+                        <div class="alert alert-danger loading" id="loadingblock">
+                            <strong>Your data is being processed. Please wait.</strong>
+                        </div>
+                        <div class="form-group">
+                            <div class="form-group">
+                            <label for="comment">Paste your URL here <span class="red-star">*</span></label>
+                            <input name="url" class="form-control" id="url" required>
+                            </div>
+                        </div>
+
+                        <button name="goBtn" id="goBtn" class="form-submit" type="button">Go</button>
+
+                        <div id="questionBlock">
+                            <div class="form-group">
+                                <label for="inputlg">Question<span class="red-star">*</span></label>
+                            <input name="question" class="form-control input-lg" id="question" type="text" value="">
+                            <!-- <div class="alert alert-info answer answer1">				          
+                            </div> -->
+                            </div>
+                            <input type="hidden" id="url_id" name="url_id">
+                            <!-- <div class="form-group">
+                                <label for="inputlg">Question 2</label>
+                            <input name="Question2" class="form-control input-lg" id="Question2" type="text" value="">
+                            <div class="alert alert-info answer answer2">				          
+                            </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="inputlg">Question 3</label>
+                                <input name="Question3" class="form-control input-lg" id="Question3" type="text" value="" >
+                                <div class="alert alert-info answer answer3">				          
+                                </div>
+                            </div> -->
+
+                            <!-- <div class="form-group">
+                            <label for="inputlg">Question 4</label>
+                            <input name="Question4" class="form-control input-lg" id="Question4" type="text" value="">
+                            <div class="alert alert-info answer answer4">				          
+                                </div> 
+                            </div>
+                            <div class="form-group">
+                                <label for="inputlg">Question 5</label>
+                                <input name="Question5" class="form-control input-lg" id="Question5" type="text" value="">
+                                <div class="alert alert-info answer answer5">				          
+                                </div> 
+                            </div> -->
+                            <div class="form-group" id="submitblock">
+                                <button name="submit" id="submitBtn" type="button" class="form-submit">Submit</button>
+                                <!-- <small class="help-block">
+                                    It might take around 45 seconds to process your request. So kindly be patient.
+                                </small> -->
+                            </div>
+                            <!-- <div class="alert alert-danger loading" id="loadingblock">
+                                <strong>Your data is being processed. Please wait.</strong>
+                            </div>  -->
+                        </div>
+                                               
+                    </form>
+                    
+                    <footer align="center" class="help-block">
+                        <br>
+                        © IRIS Software 2019
+                    </footer>
+                    </div>
+            </div>
+        </section>
+    
+    </div>
+</body>
+</html>

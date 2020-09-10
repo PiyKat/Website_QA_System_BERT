@@ -1,0 +1,38 @@
+Derivatives vs. Options : An Overview . A derivative is a financial contract that gets its value , risk , and basic term structure from an underlying asset . Options are one category of derivatives and give the holder the right , but not the obligation to buy or sell the underlying asset . Options are available for many investments including equities , currencies , and commodities .
+--------------------------
+Derivatives vs. Options : An Overview . Derivatives are contracts between two or more parties in which the contract value is based on an agreed - upon underlying security or set of assets such as the S&P index . Typical underlying securities for derivatives include bonds , interest rates , commodities , market indexes , currencies , and stocks .
+--------------------------
+Derivatives vs. Options : An Overview . Derivatives have a price and expiration date or settlement date that can be in the future . As a result , derivatives , including options , are often used as hedging vehicles to offset the risk associated with an asset or portfolio .
+--------------------------
+Derivatives vs. Options : An Overview . Derivatives have been used to hedge risk for many years in the agricultural industry , where one party can make an agreement to sell crops or livestock to another counterparty who agrees to buy those crops or livestock for a specific price on a specific date . These bilateral contracts were revolutionary when first introduced , replacing oral agreements and the simple handshake .
+--------------------------
+Options . When most investors think of options , they usually think of equity options , which is a derivative that obtains its value from an underlying stock . An equity option represents the right , but not the obligation , to buy or sell a stock at a certain price , known as the strike price , on or before an expiration date . Options are sold for a price called the premium . A call option gives the holder the right to buy the underlying stock while a put option gives the holder the right to sell the underlying stock .
+--------------------------
+Options . If the option is exercised by the holder , the seller of the option must deliver 100 shares of the underlying stock per contract to the buyer . Equity options are traded on exchanges and settled through centralized clearinghouses , providing transparency and liquidity , two critical factors when traders or investors take derivatives exposure .
+--------------------------
+Options . American - style options can be exercised at any point up until the expiration date while European - style options can only be exercised on the day it is set to expire . Major benchmarks , including the S&P 500 , have actively traded European - style options . Most equity and exchange - traded funds ( ETFs ) options on exchanges are American options while just a few broad - based indices have American - style options . Exchange - traded funds are a basket of securities — such as stocks — that track an underlying index .
+--------------------------
+Derivatives . Futures contracts are derivatives that obtain their value from an underlying cash commodity or index . A futures contract is an agreement to buy or sell a particular commodity or asset at a preset price and at a preset time or date in the future .
+--------------------------
+Derivatives . For example , a standard corn futures contract represents 5,000 bushels of corn , while a standard crude oil futures contract represents 1,000 barrels of oil . There are futures contracts on assets as diverse as currencies and the weather .
+--------------------------
+Derivatives . Another type of derivative is a swap agreement . A swap is a financial agreement among parties to exchange a sequence of cash flows for a defined amount of time . Interest rate swaps and currency swaps are common types of swap agreements . Interest rate swaps , for example , are agreements to exchange a series of interest payments for another based off a principal amount . One company might want floating interest rate payments while another might want fixed - rate payments . The swap agreement allows two parties to exchange the cash flows .
+--------------------------
+Derivatives . Swaps are generally traded over the counter but are slowly moving to centralized exchanges . The financial crisis of 2008 led to new financial regulations such as the Dodd - Frank Act , which created new swaps exchanges to encourage centralized trading .
+--------------------------
+Derivatives . There are multiple reasons why investors and corporations trade swap derivatives . The most common include :
+--------------------------
+Derivatives . A forward contract is a contract to trade an asset , often currencies , at a future time and date for a specified price . A forward contract is similar to a futures contract except that forwards can be customized to expire on a particular date or for a specific amount .
+--------------------------
+Derivatives . For example , if a U.S. company is due to receive a stream of payments in euros each month , the amounts must be converted to U.S. dollars . Each time there 's an exchange , a different exchange rate is applied given the prevailing euro - to - U.S. dollar rate . As a result , the company might receive different dollar amounts each month despite the euro amount being fixed because of exchange rate fluctuations .
+--------------------------
+Derivatives . A forward contract allows the company to lock in an exchange rate today for every month of euro payments . Each month the company receives euros , they are converted based on the forward contract rate . The contract is executed with a bank or broker and allows the company to have predictable cash flows .
+--------------------------
+Derivatives . A forward contract can be used for speculation as well as hedging , although its non - standardized nature makes it particularly apt for hedging . Forward contracts are traded over the counter , meaning between banks and brokers , since they are custom agreements between two parties . Since they 're not traded on an exchange , forwards have a higher risk of counterparty default . As a result , forward contracts are not as easily available to retail traders and investors as futures contracts .
+--------------------------
+Key Differences . One of the main differences between options and derivatives is that option holders have the right , but not the obligation to exercise the contract or exchange for shares of the underlying security .
+--------------------------
+Key Differences . Derivatives , on the other hand , usually are legal binding contracts whereby once entered into , the party must fulfill the contract requirements . Of course , many options and derivatives can be sold before their expiration dates , so there 's no exchange of the physical underlying asset .
+--------------------------
+Key Differences . However , for any contract that 's unwound or sold before its expiry , the holder is at risk for a loss due to the difference between the purchase and sale prices of the contract .
+--------------------------

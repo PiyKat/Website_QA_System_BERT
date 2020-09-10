@@ -1,0 +1,1 @@
+ Average Deviation, or Mean Absolute Deviation . The average deviation, or mean absolute deviation, is another measure of variability. It is calculated similarly to standard deviation, but it uses absolute values instead of squares to circumvent the issue of negative differences between the data points and their means. To calculate the average deviation:

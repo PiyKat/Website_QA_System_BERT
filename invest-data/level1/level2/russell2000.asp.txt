@@ -1,0 +1,24 @@
+What Is the Russell 2000 Index ? . The Russell 2000 index is an index measuring the performance of approximately 2,000 smallest - cap American companies in the Russell 3000 Index , which is made up of 3,000 of the largest U.S. stocks . It is a market - cap weighted index .
+--------------------------
+What Is the Russell 2000 Index ? . Many investors compare small - cap mutual fund performance with the Russell 2000 index because it reflects the return opportunity presented by the entire sub - section of that market rather than opportunities offered by narrower indices , which may contain biases or more stock - specific risk that distort a fund manager ’s performance .
+--------------------------
+Understanding the Russell 2000 Index . The Russell 2000 index , created in 1984 by the Frank Russell Company , is a stock market index comprised of 2000 small - capitalization companies . It is made up of the bottom two - thirds of the Russell 3000 index , a larger index of 3000 publicly traded companies that represents nearly 98 percent of the investable U.S. stock market .
+--------------------------
+Important . The Russell 2000 often serves as a benchmark for small - cap stocks in the United States .
+--------------------------
+Important . The Russell 2000 index is a commonly used benchmark for mutual funds that identify themselves as " small - cap , " much like the S&P 500 index is used to benchmark large capitalization stocks . ( For related reading , see " S&P 500 vs. Russell 2000 ETF : What 's the Difference ? " )
+--------------------------
+Important . Mutual fund investors favor the Russell 2000 index because it reflects the investment opportunity presented by the entire market rather than opportunities offered by narrower indices , which may contain bias or more stock - specific risk that can distort a fund manager ’s performance . Many mutual funds and ETFs are tied to or based on the Russell 2000 .
+--------------------------
+Important . It is also the most widely quoted measure of the overall performance of small - cap to mid - cap stocks . The index represents approximately 8 percent of the total Russell 3000 market capitalization . As of December 31 , 2017 , the average value for a company on the Russell 2000 is $ 2.4 billion ; the median market cap is $ 861 million . The market cap of the largest company in the index is almost $ 9.3 billion . It first traded above the 1,000 level on May 20 , 2013 . A similar small - cap index is the S&P SmallCap 600 from Standard & Poor 's , but it 's not as widely referenced .
+--------------------------
+Important . Many regard the Russell 2000 as an important bellwether of the American economy because it measures the performance of smaller , domestically focused businesses . The Russell 2000 index is investable by replicating the index using component shares or through index futures , mutual funds , and exchange trading funds , such as the Russell 2000 index ETF . There are an active listed options for IWM and Russell 2000 index futures as well .
+--------------------------
+. The smallest 1000 companies in the Russell 2000 make up the Russell 1000 Microcap Index .
+--------------------------
+Russell 2000 Index vs. Other Market Indices . Unlike the Dow Jones Industrial Average , the Russell 2000 index is weighted by shares outstanding . This means that a member stock ’s last sale price as well as the number of shares that can actually be traded ( rather than the company ’s full market capitalization ) influence the index .
+--------------------------
+Russell 2000 Index vs. Other Market Indices . Other permutations of the Russell 2000 measure the performance of companies with special characteristics . For example , the Russell 2000 Growth Index measures the performance of Russell 2000 companies with higher price - to - book ratios and higher forecasted growth values . The Russell 2000 Value Index measures the performance of Russell 2000 companies with lower price - to - book ratios and lower forecasted growth values .
+--------------------------
+Russell 2000 Index vs. Other Market Indices . The other major difference between the Russell 2000 and other major indices is that it benchmarks small - cap stocks . The S&P 500 and Dow Jones index , for instance , track large - cap stocks .
+--------------------------

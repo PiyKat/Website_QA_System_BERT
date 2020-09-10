@@ -1,0 +1,18 @@
+What Is a Commodity ETF ? . A commodity ETF is an exchange - traded fund ( ETF ) invested in physical commodities , such as agricultural goods , natural resources , and precious metals . A commodity ETF is usually focused on either a single commodity — holding it in physical storage — or is focused on investments in futures contracts . Other commodity ETFs look to track the performance of a commodity index that includes dozens of individual commodities through a combination of physical storage and derivatives positions .
+--------------------------
+How a Commodity ETF Works . ETFs usually consist of public equities that relate to a specific economy , market index , sector , or industry . Normal ETFs are made up of a collection of securities that are linked by a similar investment profile . Instead of underlying securities like public stocks , commodity ETFs are comprised of futures or asset - backed contracts that track the performance of a particular commodity or group of commodities .
+--------------------------
+How a Commodity ETF Works . When an investor purchases a commodity ETF , they normally do not own the physical asset but instead own a set of contracts backed by the commodity itself . Since many commodity ETFs use leverage through the purchase of derivative contracts , they may have large portions of uninvested cash , which is used to purchase Treasury securities or other nearly risk - free assets .
+--------------------------
+How a Commodity ETF Works . Commodity funds often create their own benchmark indexes that may include only agricultural products , natural resources or metals . As such , there is often tracking error around broader commodity indexes like the Dow Jones AIG Commodity Index . Even so , any commodity ETF should be passively invested in once the underlying index methodology is in place . Commodity ETFs have soared in popularity because they give investors exposure to commodities without requiring investors to learn how to purchase futures or other derivative products .
+--------------------------
+. It pays to research commodity ETFs , researching the overall concept in great detail and watching the commodity ETF for a while to see how it progresses as the market changes .
+--------------------------
+Example of a Commodity ETF . Commodity ETFs track a wide range of underlying commodities , some of which include precious metals , oil , and natural gas . Further , other commodity ETFs instead track a diversified basket of commodities . Investors should always do their own research , but some of the best commodity ETFs are precious metals like gold and silver . These are popular ETFs because the underlying commodity ca n't go bad or spoil .
+--------------------------
+Example of a Commodity ETF . The SPDR Gold Shares ( GLD ) and iShares Silver Trust ( SLV ) are two of the largest gold and silver ETFs . The SPDR Gold Shares ETF has an expense ratio of 0.4 % , and the iShares Silver Trust has an expense ratio of 0.5 % .
+--------------------------
+Example of a Commodity ETF . Another popular type of commodity ETF is oil and natural gas . However , since oil and gas ca n't be stockpiled like precious metals , these ETFs invest in futures contracts instead of the commodity itself . The SPDR S&P Oil & Gas Exploration and Production ETF has a diversified portfolio of 60 oil- and gas - producing companies and has an annual expense ratio of 0.35 % .
+--------------------------
+Example of a Commodity ETF . Some investors like to increase diversification through diversified commodities ETFs . These ETFs , such as the iShares MSCI Global Agriculture Producers ETF , tracks the United States Commodity Index .
+--------------------------

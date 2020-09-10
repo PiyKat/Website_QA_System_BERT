@@ -1,0 +1,1 @@
+ What is Notional Value? . Notional value is a term often used to value the underlying asset in a derivatives trade. It can be the total value of a position, how much value a position controls, or an agreed-upon amount in a contract. This term is used when describing derivative contracts in the options, futures, and currency markets.

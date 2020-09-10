@@ -1,0 +1,1 @@
+ Understanding Theta . Theta is part of the group of measures known as the Greeks, which are used in options pricing. The measure of theta quantifies the risk that time poses to option buyers, since options are only exercisable for a certain period of time.

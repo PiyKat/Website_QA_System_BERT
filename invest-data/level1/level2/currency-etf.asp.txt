@@ -1,0 +1,36 @@
+What Is a Currency ETF ? . Currency ETFs ( exchange - traded funds ) are financial products built with the goal of providing investment exposure to foreign exchange ( forex ) currencies . They are usually passively managed with underlying currency holdings in a single country or basket of countries .
+--------------------------
+Understanding Currency ETFs . The foreign exchange market for currency trading is the largest market in the world . Currency ETFs provide structured investment exposure to the foreign exchange market through a managed currency portfolio . Investors look to these funds for their foreign exchange market exposure as well as their ability to mitigate risks and friction costs in the forex market .
+--------------------------
+Understanding Currency ETFs . The rising popularity of ETFs offer investors a seamless and cheap method to trade currencies throughout normal trading hours .
+--------------------------
+. Most of the movement in the currency market comes down to interest rates , global economic conditions , and political stabilities .
+--------------------------
+. Currencies and government Treasuries are often two closely related investment options that investors may look to for safety . Currencies can typically have a slightly higher relative risk than other safe havens because of their volatility and trading mechanisms . Currency values are usually driven by interest rates , economic conditions , and government politics . Investors may use currencies for safety , speculation , or hedging .
+--------------------------
+. In essence , trading currencies is a speculative trade on spot exchange rates . Currency ETF managers can accomplish the goals of their fund using a few different methods . Currency ETFs may include cash / currency deposits , short - term debt denominated in a currency , and forex derivative contracts . In the past , these markets were only accessible to experienced traders but the rise of exchange - traded funds over the past decade has opened the foreign exchange market more broadly .
+--------------------------
+. Today , currency ETFs are available to track most of the world ’s largest global currencies . Ten of the largest currency ETFs by assets under management include the following :
+--------------------------
+. Exposure to spot exchange rates is perhaps the most fundamental aspect of investing in currencies . Currency funds rise and fall based on their exposures and positioning to either a counter currency or a basket of currencies .
+--------------------------
+. Currency ETFs can add a layer of diversification to traditional stock and bond portfolios . They can potentially be used to arbitrage for or hedge against economic events . Different products offer varying risk - reward opportunities and provide exposure to different currencies . Basket investments in multiple currencies may offer more stability than a currency - specific product but with less upside potential . Many of the same guidelines of modern finance like diversification and risk management apply to trading the currency market .
+--------------------------
+. In the U.S. , the U.S. Dollar Index is one of the most closely followed gauges of the U.S. dollar ’s performance . Investors can invest in this Index through three popular funds :
+--------------------------
+Hedging Considerations and Example . Consider a U.S. investor who invested $ 10,000 in Canadian stocks through the iShares MSCI Canada Index Fund ( EWC ) . This ETF seeks to provide investment results that correspond to the price and yield performance of the Canadian equity market , as measured by the MSCI Canada Index . The ETF shares were priced at $ 33.16 at the end of June 2008 , so an investor with $ 10,000 to invest would have acquired 301.5 shares ( excluding brokerage fees and commissions ) .
+--------------------------
+Hedging Considerations and Example . If this investor wanted to hedge foreign exchange risk , he or she could have sold short shares of the CurrencyShares Canadian Dollar Trust ( FXC ) . This ETF reflects the price in U.S. dollars of the Canadian dollar . In other words , when an investor is long the ETF , then when the Canadian dollar strengthens versus the U.S. dollar the FXC shares rise and vice versa . Shorting creates the opposite result .
+--------------------------
+Hedging Considerations and Example . Recall that if this investor had the view that the Canadian dollar would appreciate , he or she would either refrain from hedging the exchange risk or " double - up " on the Canadian dollar exposure by buying ( or " going long " ) FXC shares . However , since our scenario assumed that the investor wished to hedge exchange risk , the appropriate course of action would have been to " short sell " the FXC units .
+--------------------------
+Hedging Considerations and Example . In this example , with the Canadian dollar trading close to parity with the U.S. dollar at the time , assume that the FXC units were sold short at $ 100 . Therefore , to hedge the $ 10,000 position in the EWC units , the investor would short sell 100 FXC shares , with a view to buying them back at a cheaper price later if the FXC shares fell .
+--------------------------
+Hedging Considerations and Example . At the end of 2008 , the EWC shares had fallen to $ 17.43 , a decline of 47.4 % from the purchase price . Part of this decline in the share price could be attributed to the drop in the Canadian dollar versus the U.S. dollar over this period . The investor who had a hedge in place would have offset some of this loss through a gain in the short FXC position . The FXC shares had fallen to about $ 82 by the end of 2008 , so the gain on the short position would have amounted to $ 1,800 . The unhedged investor would have had a loss of $ 4,743 on the initial $ 10,000 investment in the EWC shares . The hedged investor would have had an overall loss of $ 2,943 on the portfolio .
+--------------------------
+Hedging Considerations and Example . Some investors may believe that it is not worthwhile to invest a dollar in a currency ETF to hedge each dollar of overseas investment . However , since currency ETFs are margin - eligible , this hurdle can be overcome by using margin accounts ( brokerage accounts in which the brokerage lends the client part of the funds for investment ) for both the overseas investment and currency ETF .
+--------------------------
+Risks of Currency ETFs . Trading currencies and currency ETFs can help improve portfolio returns but there are substantial risks in the foreign exchange market . Primarily , most currency movements are influenced by ongoing macroeconomic events . A sluggish economic release , volatile political move , or interest rate hike by a central bank can easily impact multiple exchange rates .
+--------------------------
+Risks of Currency ETFs . Overall , it 's important to remember that currency investing has special risks and therefore may not be suitable for all investors . Currencies and currency ETFs can be used as part of a diversified portfolio . Generally , for hedging purposes , they are best used to counter - manage risks from international investing .
+--------------------------

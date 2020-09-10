@@ -1,0 +1,62 @@
+What Are Index Futures ? . Index futures are futures contracts where a trader can buy or sell a financial index today to be settled at a future date . Index futures are used to speculate on the direction of price movement for an index such as the S&P 500 .
+--------------------------
+What Are Index Futures ? . Investors and investment managers also use index futures to hedge their equity positions against losses .
+--------------------------
+Index Futures Explained . Index futures , like all future contracts , give the trader or investor the power and the commitment to deliver the cash value based on an underlying index at a specified future date . Unless the contract is unwound before the expiration through an offsetting trade , the trader is obligated to deliver the cash value on the expiry .
+--------------------------
+Index Futures Explained . An index tracks the price of an asset or group of assets . Index futures are derivatives meaning they are derived from an underlying asset — the index . Traders use these products to exchange various instruments including equities , commodities , and currencies . For example , the S&P 500 index tracks the stock prices of 500 of the largest companies in the United States . An investor could buy or sell index futures on the S&P to speculate the appreciation or depreciation of the index .
+--------------------------
+Key Takeaways .
+--------------------------
+Types of Index Futures . Some of the most popular index futures are based on equities . However , each product may use a different multiple for determining the price of the futures contract . As an example , the value of the S&P 500 futures contract is $ 250 times the S&P 500 index value . The E - mini S&P 500 futures contract has a value of 50 times the value of the index .
+--------------------------
+Types of Index Futures . Index futures are also available for the Dow Jones Industrial Average ( DJIA ) and the Nasdaq 100 along with E - mini Dow ( YM ) and E - mini NASDAQ 100 ( NQ ) contracts . Index futures are available for foreign markets including the German , Frankfurt Exchange traded ( DAX)—which is similar to the Dow Jones — the SMI index in Europe , and the Hang Seng Index ( HSI ) in Hong Kong .
+--------------------------
+Margin and Index Futures . Futures contracts do n't require the trader or investor to put up the entire value of the contract when entering a trade . Instead , they only required the buyer to maintain a fraction of the contract amount in their account , called the initial margin .
+--------------------------
+Margin and Index Futures . Prices of index futures can fluctuate significantly until the contract expires . Therefore , traders must have enough money in their account to cover a potential loss , which is called the maintenance margin . Maintenance margin sets the minimum amount of funds an account must have to satisfy any future claims .
+--------------------------
+Margin and Index Futures . Both the New York Stock Exchange ( NYSE ) and Financial Industry Regulatory Authority , Inc. ( FINRA ) require a minimum of 25 % of the total trade value as the minimum account balance . However , some brokerages will demand greater than this 25 % margin . Also , as the value of the trade climbs before expiration the broker can demand additional funds be deposited to top - off the value of the account — known as a margin call .
+--------------------------
+Margin and Index Futures . It 's important to note that index futures contracts are legally binding agreements between the buyer and seller . Futures differ from an option in that a futures contract is considered an obligation , while an option is considered a right that the holder may or may not exercise .
+--------------------------
+Profits and Loss from Index Futures . An index futures contract states that the holder agrees to purchase an index at a particular price on a specified future date . Index futures typically settled quarterly , and there are several annual contracts as well .
+--------------------------
+Profits and Loss from Index Futures . Equity index futures are cash settled meaning there 's no delivery of the underlying asset at the end of the contract . If on expiry , the price of the index is higher than the agreed - upon price in the contract , the buyer has made a profit , and the seller — future writer — has suffered a loss . Should the opposite be true , the buyer suffers a loss , and the seller makes a profit .
+--------------------------
+Profits and Loss from Index Futures . For example , if the Dow were to close at 16,000 at the end of September , the holder who bought a September future contact one year earlier at 15,760 would have a profit .
+--------------------------
+Profits and Loss from Index Futures . Profits are determined by the difference between the entry and exit prices of the contract . As with any speculative trade , there are risks that the market could move against the position . As mentioned earlier , the trading account must keep funds or margin on hand and could have a margin call demand to offset any risk of further losses . Also , the investor or trader must understand that many factors can drive market index prices including macroeconomic conditions such as growth in the economy and corporate earnings or disappointments .
+--------------------------
+Index Futures for Hedging . Portfolio managers will often buy equity index futures as a hedge against potential losses . If the manager has positions in a large number of stocks , index futures can help hedge the risk of declining stock prices by selling equity index futures . Since many stocks tend to move in the same general direction , the portfolio manager could sell or short an index futures contract in case stocks prices decline . In the event of a market downturn , the stocks within the portfolio would fall in value , but the sold index futures contracts would gain in value offsetting the losses from the stocks .
+--------------------------
+Index Futures for Hedging . The fund manager could hedge all of the downside risks of the portfolio , or only partially offset it . The downside of hedging is that hedging can reduce profits if the hedge is n't required . For example , if in the above scenario , the portfolio manager shorts the index futures and the market rises , the index futures would decline in value . The losses from the hedge would offset gains in the portfolio as the stock market rises .
+--------------------------
+Speculation on Index Futures . Speculation is an advanced trading strategy that is not suited for many investors . However , experienced traders will use index futures to speculate on the direction of an index . Instead of buying individual stocks or assets , a trader can bet on the direction of a group of assets by buying or selling index futures . For example , to replicate the S&P 500 index , investors would need to buy all 500 stocks in the index . Instead , index futures can be used to bet on the direction of all 500 stocks with one contract creating the same effect of owning all 500 stocks in the S&P.
+--------------------------
+Speculation on Index Futures . Portfolio managers use index futures to hedge declines in similar holdings .
+--------------------------
+Speculation on Index Futures . Brokerage accounts required only a fraction of the contract 's value held as a margin ,
+--------------------------
+Speculation on Index Futures . Index futures allows for speculation on the index price movement .
+--------------------------
+Speculation on Index Futures . Business use commodity futures to lock in commodity prices .
+--------------------------
+Speculation on Index Futures . Unnecessary or wrong direction hedges will damage any portfolio gains .
+--------------------------
+Speculation on Index Futures . Brokers can demand additional funds to maintain the account 's margin amount .
+--------------------------
+Speculation on Index Futures . Index futures speculation is a high - risk undertaking
+--------------------------
+Speculation on Index Futures . Unforeseen factors may cause the index to move opposite from the desired direction .
+--------------------------
+Index Futures Vs . Commodities Futures Contracts . By their nature , stock index futures operate differently than futures contracts for more tangible securities such as cotton , soybeans , or crude oil . Long position holders of these commodities future contracts will need to take physical delivery upon expiration if the position has not been closed out ahead of time .
+--------------------------
+Index Futures Vs . Commodities Futures Contracts . Businesses will frequently use commodity futures to lock in prices for the raw material they need for production .
+--------------------------
+Examples of Index Futures Speculating . An investor decides to speculate on the direction of the S&P 500 . Index futures for the S&P 500 are valued at $ 250 multiplied by the index value . The investor buys the futures contract when the S&P index is valued at 2,000 , resulting in the contract value of $ 500,000 ( 2000 x $ 250 ) . Since index futures contracts do n't require the investor to put up 100 % of the contract , the investor is only required to maintain a small percentage in a brokerage account .
+--------------------------
+Examples of Index Futures Speculating . The S&P index falls to 1900 , and the futures contract is now only worth $ 475,000 ( 1900 x $ 250 ) . The investor has incurred a $ 25,000 loss .
+--------------------------
+Examples of Index Futures Speculating . If the index increases to 2100 , the futures contract is now worth $ 525,000 ( 2100 x $ 250 ) . The investor has earned a $ 25,000 profit .
+--------------------------

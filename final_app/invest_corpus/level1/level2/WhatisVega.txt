@@ -1,0 +1,1 @@
+ What is Vega . Vega is the measurement of an option's price sensitivity to changes in the volatility of the underlying asset. Vega represents the amount that an option contract's price changes in reaction to a 1% change in the implied volatility of the underlying asset.

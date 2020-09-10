@@ -1,0 +1,1 @@
+ Sharpe Ratio Example . Even though Mutual Fund A had a higher return, Mutual Fund B had a higher risk-adjusted return, meaning that it gained more per unit of total risk than Mutual Fund A.

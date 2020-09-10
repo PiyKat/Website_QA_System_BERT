@@ -1,0 +1,48 @@
+Options Trading Strategies : Understanding Position Delta . The article Options Trading Strategies : Understanding Position Delta discusses risk measures such as delta , gamma , theta , and vega , which are summarized in figure 1 below . This article takes a closer look at delta as it relates to actual and combined positions - known as position delta - which is a very important concept for option sellers . Below is a review of the risk measure delta , and an explanation of position delta , including an example of what it means to be position - delta neutral .
+--------------------------
+Simple Delta . Let 's review some basic concepts before jumping right into position delta . Delta is one of four major risk measures used by option traders . Delta measures the degree to which an option is exposed to shifts in the price of the underlying asset ( i.e. stock ) or commodity ( i.e. futures contract ) . Values range from 1.0 to – 1.0 ( or 100 to – 100 , depending on the convention employed ) . For example , if you buy a call or a put option that is just out of the money ( i.e. the strike price of the option is above the price of the underlying if the option is a call , and below the price of the underlying if the option is a put ) , then the option will always have a delta value that is somewhere between 1.0 and – 1.0 . Generally speaking , an at - the - money option usually has a delta at approximately 0.5 or -0.5 .
+--------------------------
+Simple Delta . Figure 1 : The four dimensions of risk - AKA , the " Greeks . "
+--------------------------
+Simple Delta . Figure 2 contains some hypothetical values for S&P 500 call options that are at , out and in the money ( in all these cases , we will be using long options ) . Call delta values range from 0 to 1.0 , while put delta values range from 0 to – 1.0 . As you can see , the at - the - money call option ( strike price at 900 ) in figure 2 has a 0.5 delta , while the out - of - the - money ( strike price at 950 ) call option has a 0.25 delta , and the in - the - money ( strike at 850 ) has a delta value of 0.75 .
+--------------------------
+Simple Delta . [ Delta is just one of the major risk measures skilled options traders analyze and make use of in their trading strategies . You can learn the other forms of risk and take strides to become a successful options trader by taking Investopedia Academy 's Options for Beginners Course . Learn the same knowledge successful options traders use when deciding puts , calls , and other option trading essentials . ]
+--------------------------
+Simple Delta . Keep in mind , these call delta values are all positive because we are dealing with long call options , a point to which we will return later . If these were puts , the same values would have a negative sign attached to them . This reflects the fact that put options increase in value when the underlying asset price falls . ( An inverse relationship is indicated by the negative delta sign . ) You will see below , when we look at short option positions and the concept of position delta , that the story gets a bit more complicated .
+--------------------------
+Simple Delta . Note : We are assuming that the underlying S&P 500 is trading at 900 .
+--------------------------
+Simple Delta . Figure 2 : Hypothetical S&P 500 long call options .
+--------------------------
+Simple Delta . At this point , you might be wondering what these delta values are telling you . Let 's use the following example to help illustrate the concept of simple delta and the meaning of these values . If an S&P 500 call option has a delta of 0.5 ( for a near or at - the - money option ) , a one - point move ( which is worth $ 250 ) of the underlying futures contract would produce a 0.5 ( or 50 % ) change ( worth $ 125 ) in the price of the call option . A delta value of 0.5 , therefore , tells you that for every $ 250 change in the value of the underlying futures , the option changes in value by about $ 125 . If you were long this call option and the S&P 500 futures move up by one point , your call option would gain approximately $ 125 in value , assuming no other variables change in the short run . We say " approximately " because as the underlying moves , delta will change as well .
+--------------------------
+Simple Delta . Be aware that as the option gets further in the money , delta approaches 1.00 on a call and – 1.00 on a put . At these extremes , there is a near or actual one - for - one relationship between changes in the price of the underlying and subsequent changes in the option price . In effect , at delta values of – 1.00 and 1.00 , the option mirrors the underlying in terms of price changes .
+--------------------------
+Simple Delta . Also , keep in mind that this simple example assumes no change in other variables like the following :
+--------------------------
+Long Vs . Short Options and Delta . As a transition into looking at position delta , let 's first look at how short and long positions change the picture somewhat . First , the negative and positive signs for values of delta mentioned above do not tell the full story . As indicated in figure 3 below , if you are long a call or a put ( that is , you purchased them to open these positions ) , then the put will be delta negative and the call delta positive ; however , our actual position will determine the delta of the option as it appears in our portfolio . Note how the signs are reversed for short put and short call .
+--------------------------
+Long Vs . Short Options and Delta . Figure 3 : Delta signs for long and short options .
+--------------------------
+Long Vs . Short Options and Delta . The delta sign in your portfolio for this position will be positive , not negative . This is because the value of the position will increase if the underlying increases . Likewise , if you are short a call position , you will see that the sign is reversed . The short call now acquires a negative delta , which means that if the underlying rises , the short call position will lose value . This concept leads us into position delta . ( Many of the intricacies involved in trading options is minimized or eliminated when trading synthetic options . )
+--------------------------
+Position Delta . Position delta can be understood by reference to the idea of a hedge ratio . Essentially , delta is a hedge ratio because it tells us how many options contracts are needed to hedge a long or short position in the underlying .
+--------------------------
+Position Delta . For example , if an at - the - money call option has a delta value of approximately 0.5 - which means that there is a 50 % chance the option will end in the money and a 50 % chance it will end out of the money - then this delta tells us that it would take two at - the - money call options to hedge one short contract of the underlying . In other words , you need two long call options to hedge one short futures contract . ( Two long call options x delta of 0.5 = position delta of 1.0 , which equals one short futures position ) . This means that a one - point rise in the S&P 500 futures ( a loss of $ 250 ) , which you are short , will be offset by a one - point ( 2 x $ 125 = $ 250 ) gain in the value of the two long call options . In this example , we would say that we are position - delta neutral .
+--------------------------
+Position Delta . By changing the ratio of calls to a number of positions in the underlying , we can turn this position delta either positive or negative . For example , if we are bullish , we might add another long call , so we are now delta positive because our overall strategy is set to gain if the futures rise . We would have three long calls with a delta of 0.5 each , which means we have a net long position delta by 0.5 . On the other hand , if we are bearish , we could reduce our long calls to just one , which we would now make us net short position delta . This means that we are net short the futures by -0.5 . ( Once you 're comfortable with these aforementioned concepts , you can take advantage of advanced strategies , such as position - delta neutral trading . )
+--------------------------
+The Bottom Line . To interpret position delta values , you must first understand the concept of the simple delta risk factor and its relation to long and short positions . With these fundamentals in place , you can begin to use position delta to measure how net - long or net - short the underlying you are when taking into account your entire portfolio of options ( and futures ) . Remember , there is a risk of loss in trading options and futures , so only trade with risk capital .
+--------------------------
+Related Articles . Options Trading Strategy & Education
+--------------------------
+Option Greeks : The 4 Factors to Measure Risks . Advanced Options Trading Concepts
+--------------------------
+How Can I Calculate the Delta Adjusted Notional Value ? . Advanced Options Trading Concepts
+--------------------------
+Profiting From Position - Delta Neutral Trading . Options Trading Strategy & Education
+--------------------------
+Using the " Greeks " to Understand Options . Options Trading Strategy & Education
+--------------------------
+What Makes a Straddle ' Delta Neutral ? ' . Options Trading Strategy & Education
+--------------------------

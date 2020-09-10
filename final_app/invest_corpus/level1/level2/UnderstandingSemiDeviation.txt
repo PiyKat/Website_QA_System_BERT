@@ -1,0 +1,1 @@
+ Understanding Semi-Deviation . In investing, semi-deviation is used to measure the dispersion of an asset's price from an observed mean or target value. In this sense, dispersion means the extent of variation from the mean price.

@@ -1,0 +1,42 @@
+Get A Strong Hold On Profit With Strangles . The word " strangle " conjures up murderous images of revenge . However , a strangle in the world of options can be both liberating and legal . In this article , we 'll show you how to get a strong hold on this strangle strategy .
+--------------------------
+Get A Strong Hold On Profit With Strangles . An option strangle is a strategy where the investor holds a position in both a call and put with different strike prices , but with the same maturity and underlying asset .
+--------------------------
+Get A Strong Hold On Profit With Strangles . Another option strategy , which is quite similar in purpose to the strangle , is the straddle . A straddle is designed to take advantage of a market 's potential sudden move in price by having a trader have a put and call option with both the same strike price and maturity date . While both of the straddle and the strangle set out to increase a trader 's odds of success , the strangle has the ability to save both money and time for traders operating on a tight budget . ( For more on straddles , read Straddle Strategy A Simple Approach To Market Neutral . )
+--------------------------
+Types Of Strangles . The strength of any strangle can be found when a market is moving sideways within a well - defined support and resistance range . A put and a call can be strategically placed to take advantage of either one of two scenarios :
+--------------------------
+Types Of Strangles . No matter which of these strangles you initiate , the success or failure of it is based on the natural limitations that options inherently have along with the market 's underlying supply and demand realities .
+--------------------------
+Factors That Influence All Strangles . There are three key differences that strangles have from their straddle cousins :
+--------------------------
+Factors That Influence All Strangles . The first key difference is the fact that strangles are executed using out - of - the - money ( OTM ) options . OTM options may be up to or even over 50 % less expensive than their at - the - money ( ATM ) or in - the - money ( ITM ) option counterparts . This is of significant importance depending on the amount of capital a trader may have to work with .
+--------------------------
+Factors That Influence All Strangles . If a trader has put a long strangle on , then the discount allows them to trade both sides of the fence at 50 % of the costs of putting on a long straddle . If a trader is determined to put a short straddle on , then they are collecting 50 % less premium while still being exposed to the problem of unlimited loss that selling options exposes a trader to .
+--------------------------
+Factors That Influence All Strangles . A second key difference between a strangle and a straddle is the fact that the market may not move at all . Since the strangle involves the purchase or sale of options that are OTM , there is an exposure to the risk that there may not be enough fundamental change to the underlying asset to make the market move outside of its support and resistance range . For those traders that are long the strangle , this can be the kiss of death . For those that are short the strangle , this is the exact type of limited volatility needed in order for them to profit .
+--------------------------
+Factors That Influence All Strangles . Finally , the Greek option - volatility tracker delta plays a significant role when making your strangle purchase or sale decisions . Delta is designed to show how closely an option 's value changes in relation to its underlying asset . An OTM option may move 30 % or $ 0.30 for every $ 1 move in the underlying asset . This can only be determined by reviewing the delta of the options you may want purchase or sell .
+--------------------------
+Factors That Influence All Strangles . If you are long a strangle , you want to make sure that you are getting the maximum move in option value for the premium you are paying . If you are short a strangle , you want to make sure that the likelihood of the option expiring , as indicated by a low delta , will offset the unlimited risk . ( For a refresher on how to use the Greeks when evaluating options , read Using the Greeks to Understand Options )
+--------------------------
+The Long Strangle . A long strangle involves the simultaneous purchase and sale of a put and call at differing strike prices . How the different strike prices are determined is beyond the scope of this article . A myriad of choices that revolve around volatility , overbought / oversold indicators , or moving averages can be used . In the example below , we see that the euro has developed some support at the $ 1.54 area and resistance at the $ 1.5660 area .
+--------------------------
+The Long Strangle . Source : TradeNavigator.com
+--------------------------
+The Long Strangle . A long - strangle trader can purchase a call with the strike price of $ 1.5660 and a put with the strike price of $ 1.54 . If the market breaks through the $ 1.5660 price , the call goes ITM ; if it collapses and breaks through $ 1.54 , the put goes ITM .
+--------------------------
+The Long Strangle . In the follow - up chart , we see that the market breaks to the upside , straight through $ 1.5660 , making the OTM call profitable . Depending on how much the put option costs , it can either be sold back to the market to collect any built - in premium or held until expiration to expire without worth .
+--------------------------
+The Long Strangle . Source : TradeNavigator.com
+--------------------------
+The Short Strangle . Using the same chart , a short - strangle trader would have sold a call at the $ 1.5660 are and sold a put at the $ 1.54 . Once the market breaks through the $ 1.5660 strike price , the sold call must be bought back or the trader risks exposure to unlimited losses in the event the market continues to run up in price .
+--------------------------
+The Short Strangle . Source : TradeNavigator.com
+--------------------------
+The Short Strangle . The premium that 's retained from selling the $ 1.54 put may or may not cover all of the loss incurred by having to buy back the call . One fact is certain : the put premium will mitigate some of the losses that the trade incurs in this instance . Had the market broken through the $ 1.54 strike price , then the sold call would have offset some of the losses that the put would have incurred .
+--------------------------
+The Short Strangle . Shorting a strangle is a low - volatility , market - neutral strategy that can only thrive in a range - bound market . It faces a core problem that supersedes its premium - collecting ability . This can take one of two forms :
+--------------------------
+The Bottom Line . Strangle trading , in both its long and short forms , can be profitable . It takes careful planning in order to prepare for both high- and low - volatility markets to make it work . Once the plan is successfully put in place , then the execution of buying or selling OTM puts and calls is simple . There is little need to choose the market 's direction ; the market simply activates the successful side of the strangle trade . This is the ultimate in being proactive in when it comes to making trading decisions .
+--------------------------

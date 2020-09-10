@@ -1,0 +1,1 @@
+ A Big Drawback . The biggest drawback of using standard deviation is that it can be impacted by outliers and extreme values. Standard deviation assumes a normal distribution and calculates all uncertainty as risk, even when it’s in the investor's favor—such as above average returns.

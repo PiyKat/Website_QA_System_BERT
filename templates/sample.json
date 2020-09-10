@@ -1,0 +1,36 @@
+// request body
+
+// {
+//     "url": "https://google.com"
+// }
+
+
+// // response body from API
+
+// {
+//     "url_id": 2
+// }
+
+
+// // request body
+
+// {
+//     "url_id": 2,
+//     "question": "What is your name?"
+// }
+
+// response body
+
+{
+    "question": "What is your name?",
+    "data": [
+        {
+            "answer": "Hello World",
+            "confidence": 0.8
+        },
+        {
+            "answer": "Hello World Again",
+            "confidence": 0.3
+        }
+    ] 
+}

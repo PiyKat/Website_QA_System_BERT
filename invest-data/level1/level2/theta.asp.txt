@@ -1,0 +1,18 @@
+What is Theta ? . Theta is a measure of the rate of decline in the value of an option due to the passage of time . It can also be referred to as an option 's time decay . If everything is held constant , the option loses value as time moves closer to the maturity of the option . Theta is generally expressed as a negative number and can be thought of as the amount by which an option 's value will decline every day .
+--------------------------
+What is Theta ? . Theta is drawn from the Greek alphabet and has numerous meanings across different fields . In the world of economics , theta can also refer to the reserve ratio of banks in economic models .
+--------------------------
+Understanding Theta . Theta is part of the group of measures known as the Greeks , which are used in options pricing . The measure of theta quantifies the risk that time poses to option buyers , since options are only exercisable for a certain period of time .
+--------------------------
+Key Takeaways . Options give the buyer the right to buy or sell an underlying asset at the strike price before the option expires . If two options are similar , but one has a longer time until it expires , the longer - term option will have more value since there is a greater chance ( given more time ) that the option could move beyond the strike price .
+--------------------------
+Differences Between Theta and Other Greeks . The Greeks measure the sensitivity of options prices to their respective variables . The delta of an option indicates the sensitivity of an option 's price in relation to a $ 1 change in the underlying security . The gamma of an option indicates the sensitivity of an option 's delta in relation to a $ 1 change in the underlying security . Vega indicates how an option 's price theoretically changes for each one percentage point move in implied volatility .
+--------------------------
+Theta for Option Buyers vs. Option Writers . If all else remains equal , the time decay causes an option to lose extrinsic value as it approaches its expiration date . Therefore , theta is one of the main Greeks that option buyers should worry about since time is working against long option holders . Conversely , time decay is favorable to an investor who writes options . Option writers benefit from time decay because the options that were written become less valuable as the time to expiration approaches . Consequently , it is cheaper for option writers to buy back the options to close out the short position .
+--------------------------
+Theta for Option Buyers vs. Option Writers . Put a different way , option values are composed of both extrinsic and intrinsic value ( if applicable ) . At option expiration , all that remains is intrinsic value , if any , because time is a significant part of the extrinsic value .
+--------------------------
+Theta Example . Assume an investor purchases a call option with a strike price of $ 1,150 for $ 5 . The underlying stock is trading at $ 1,125 . The option has five days until expiration and theta is $ 1 .
+--------------------------
+Theta Example . In theory , the value of the option drops $ 1 per day until it reaches the expiration date . This is unfavorable to the option holder . Assume the underlying stock remains at $ 1,125 and two days have passed . The option will be worth approximately $ 3 . The only way the option becomes worth more than $ 5 again is if the price rises above $ 1,155 . This would give the option at least $ 5 in intrinsic value ( $ 1,150 - $ 1,150 strike price ) , offsetting the loss due to theta or time decay .
+--------------------------

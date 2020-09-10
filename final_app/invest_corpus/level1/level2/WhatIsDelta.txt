@@ -1,0 +1,1 @@
+ What Is Delta? . Delta is the ratio that compares the change in the price of an asset, usually marketable security, to the corresponding change in the price of its derivative. For example, if a stock option has a delta value of 0.65, this means that if the underlying stock increases in price by $1 per share, the option on it will rise by $0.65 per share, all else being equal.

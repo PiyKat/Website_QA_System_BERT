@@ -1,0 +1,1 @@
+ Risk in Tracking an Index . The price of the ETN should track the index closely, but there can be times when it does not correlate well—called tracking errors. Tracking errors happen if there are credit issues with the issuer and the price of the ETN deviates from the underlying index.

@@ -1,0 +1,32 @@
+What Is Shareholder Equity – SE ? . Shareholder equity ( SE ) , also referred to as shareholders ' equity and stockholders ' equity , it a corporation 's owners ' residual claim after debts have been paid . Equity is equal to a firm 's total assets minus its total liabilities . Equity is found on a company 's balance sheet , it is one of the most common financial metrics employed by analysts to assess the financial health of a company . Shareholder equity can also represent the net or book value of a company .
+--------------------------
+What Is Shareholder Equity – SE ? . Shareholder equity represents the amount of money that would be returned to shareholders if all of the assets were liquidated and all of the company 's debt was paid off . Retained earnings is part of shareholder equity and is the percentage of net earnings that were not paid to shareholders as dividends . Think of retained earnings as savings since it represents a cumulative total of profits that have been saved and put aside or retained for future use .
+--------------------------
+The Formula for Shareholder Equity Is . ﻿Shareholders ’ equity = total assets−total liabilities\begin{aligned } & \text{Shareholders ' equity}=\text{total assets } - \text{total liabilities } \end{aligned}​Shareholders ’ equity = total assets−total liabilities​﻿
+--------------------------
+The Formula for Shareholder Equity Is . The formula above is also known as the accounting equation or balance sheet equation .
+--------------------------
+Calculating Shareholder Equity . The balance sheet holds the basis of the accounting equation :
+--------------------------
+Calculating Shareholder Equity . Shareholder equity can also be expressed as a company 's share capital and retained earnings less the value of treasury shares . This method , however , is less common . Though both methods yield the same figure , the use of total assets and total liabilities is more illustrative of a company 's financial health . By comparing concrete numbers reflecting everything the company owns and everything it owes , the " assets - minus - liabilities " shareholder equity equation paints a clear picture of a company 's finances that is easily interpreted by investors , professionals , and laypersons .
+--------------------------
+What Does Shareholder Equity Tell You ? . Shareholder equity , also known as stockholders ' equity , can be either negative or positive . If positive , the company has enough assets to cover its liabilities . If negative , the company 's liabilities exceed its assets ; if prolonged , this is considered balance sheet insolvency .
+--------------------------
+What Does Shareholder Equity Tell You ? . For this reason , many investors view companies with negative shareholder equity as risky or unsafe investments . Shareholder equity alone is not a definitive indicator of a company 's financial health ; used in conjunction with other tools and metrics , the investor can accurately analyze the health of an organization .
+--------------------------
+What Does Shareholder Equity Tell You ? . All the information needed to compute a company 's shareholder equity is available on its balance sheet . Total assets include current and non - current assets . Current assets are assets that can be converted to cash within a year ( e.g. , cash , accounts receivable , inventory , et al . ) . Long - term assets are assets that can not be converted to cash or consumed within a year ( e.g. investments ; property , plant , and equipment ; and intangibles , such as patents ) .
+--------------------------
+What Does Shareholder Equity Tell You ? . Total liabilities consist of current and long - term liabilities . Current liabilities are debts typically due for repayment within one year ( e.g. accounts payable and taxes payable ) . Long - term liabilities are obligations that are due for repayment in periods longer than one year ( e.g. , bonds payable , leases , and pension obligations ) . Upon calculating the total assets and liabilities , shareholder equity can be determined .
+--------------------------
+What Does Shareholder Equity Tell You ? . Market analysts and investors prefer to see a good , stable balance between the amount of retained earnings that a company pays out to investors in the form of dividends and the amount retained to reinvest back into the company .
+--------------------------
+What Does Shareholder Equity Tell You ? . Shareholder equity is an important metric in determining the return being generated versus the total amount invested by equity investors . For example , ratios like return on equity ( ROE ) , which is the result of a company 's net income divided by shareholder equity , is used to measure how well a company 's management is using its equity from investors to generate profit .
+--------------------------
+Example of Shareholder Equity . For example , assume that ABC company has total assets of $ 2.6 million and total liabilities of $ 920,000 . Therefore , ABC shareholder equity is $ 1.68 million .
+--------------------------
+Example of Shareholder Equity . As a real - world example , PepsiCo Inc. 's ( NYSE : PEP ) total stockholders ' equity declined in the two year period from $ 17.4 billion in 2014 to $ 11.1 billion in 2016 , which — depending on the reasons — might give analysts concern for the soda and snack food giant 's health . In the same period , arch - rival Coca - Cola Corporation 's ( NYSE : KO ) total shareholder equity fell from $ 30.3 billion to $ 23.01 billion . But the percentage drop is n't as great because Coke 's liabilities and accounts payable also consistently decreased , while Pepsi 's increased , suggesting Coke had a better handle on its debt .
+--------------------------
+The Difference Between Shareholder 's Equity and Equity . A company 's equity typically refers to the ownership of a public company . For example , investors might own shares of stock in a publicly traded company .
+--------------------------
+The Difference Between Shareholder 's Equity and Equity . Equity , however , in more general terms could also refer to the level ownership of an asset . For example , an owner of a house with a mortgage on it might have equity in the house , but not own it outright . The home owner 's equity would be the difference between the market price of the house and the current mortgage balance .
+--------------------------

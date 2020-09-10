@@ -1,0 +1,1 @@
+ Types of Uptick . There are several terms that contain the word uptick. They include zero uptick, which refers to a transaction executed at the same price as the trade immediately preceding it, but at a price higher than the transaction before that; uptick volume, meaning the number of shares traded while a stock price is rising; and the uptick rule.

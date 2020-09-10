@@ -1,0 +1,1 @@
+ Simple Delta . Note: We are assuming that the underlying S&P 500 is trading at 900. Figure 2: Hypothetical S&P 500 long call options.

@@ -1,0 +1,1 @@
+ Comparisons . Dollar duration differs from Macaulay duration and modified duration in that modified duration is a price sensitivity measure of the yield change, meaning it is a good measure of volatility, and Macaulay duration uses the coupon rate and size plus the yield to maturity to assess the sensitivity of a bond.

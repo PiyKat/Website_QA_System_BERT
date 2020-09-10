@@ -1,0 +1,1 @@
+ Total Return Swaps . Total return swaps involve a party that pays a floating or fixed rate multiplied by a notional value amount plus the decrease in notional value. This is swapped for payments by another party that pays the appreciation of notional value.

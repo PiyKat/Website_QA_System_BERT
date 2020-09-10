@@ -1,0 +1,24 @@
+What Is Unsystematic Risk ? . Unsystematic risk is unique to a specific company or industry . Also known as “ nonsystematic risk , ” " specific risk , " " diversifiable risk " or " residual risk , " in the context of an investment portfolio , unsystematic risk can be reduced through diversification .
+--------------------------
+What Is Unsystematic Risk ? . This can be contrasted with systematic risk , which is inherent in the market .
+--------------------------
+Understanding Unsystematic Risk . Unsystematic risk can be described as the uncertainty inherent in a company or industry investment . Types of unsystematic risk include a new competitor in the marketplace with the potential to take significant market share from the company invested in , a regulatory change ( which could drive down company sales ) , a shift in management , and/or a product recall .
+--------------------------
+Understanding Unsystematic Risk . While investors may be able to anticipate some sources of unsystematic risk , it is impossible to be aware all or when / how these might occur . For example , an investor in healthcare stocks may be aware that a major shift in health policy is on the horizon , yet she / he can not know in advance the particulars of the new laws and how companies and consumers will respond . The gradual adoption and then potential repeal of the Affordable Care Act , first written into law in 2010 , has made it very challenging for some investors in healthcare stocks to anticipate and place confident bets on the direction of the industry and/or specific companies .
+--------------------------
+Understanding Unsystematic Risk . Examples include things , such as strikes , outcomes of legal proceedings , or natural disasters . This risk is also known as diversifiable risk , since it can be eliminated by sufficiently diversifying a portfolio . There is n't a formula for calculating unsystematic risk ; instead , it must be extrapolated by subtracting the systematic risk from the total risk .
+--------------------------
+Company - Specific Risk . Two factors cause company - specific risk :
+--------------------------
+Company - Specific Risk . Operational risks can result from unforeseen and/or negligent events such as a breakdown in the supply chain or a critical error being overlooked in the manufacturing process . A security breach could expose confidential information about customers or other types of key proprietary data to criminals .
+--------------------------
+Company - Specific Risk . A strategic risk may occur if a business gets stuck selling goods or services in a dying industry without a solid plan to evolve the company 's offerings . A company may also encounter this risk by entering into a flawed partnership with another firm or competitor that hurts their future prospects for growth .
+--------------------------
+Company - Specific Risk . Legal and regulatory risks can expose a company to a myriad of liabilities and potential lawsuits from customers , suppliers and competing firms . Enforcement actions from government agencies and changes in laws can also be difficult to guard against .
+--------------------------
+Example of Unsystematic Risk . By owning a variety of company stocks across different industries , as well as by owning other types of securities in a variety of asset classes , such as Treasuries and municipal securities , investors will be less affected by single events . For example , an investor , who owned nothing but airline stocks , would face a high level of unsystematic risk . She would be vulnerable if airline industry employees decided to go on strike , for example . This event could sink airline stock prices , even temporarily . Simply the anticipation of this news could be disastrous for her portfolio .
+--------------------------
+Example of Unsystematic Risk . By adding uncorrelated holdings to her portfolio , such as stocks outside of the transportation industry , this investor would spread out air - travel - specific concerns . Unsystematic risk in this case affects not only specific airlines but also several of the industries , such as large food companies , with which many airlines do business . In this regard , she could diversify away from public equities altogether by adding US Treasury Bonds as an additional protection from fluctuations in stock prices .
+--------------------------
+Example of Unsystematic Risk . Even a portfolio of well - diversified assets can not escape all risk , however . The portfolio will still be exposed to systematic risk , which refers to the uncertainty that faces the market as a whole and includes shifts in interest rates , presidential elections , financial crises , wars , and natural disasters .
+--------------------------

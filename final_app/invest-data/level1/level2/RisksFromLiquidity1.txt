@@ -1,0 +1,1 @@
+ Risks From Liquidity . ETNs have default risk since the repayment of principal is contingent on the issuer's financial viability. Trading volume can be low causing ETN prices to trade at a premium. Tracking errors can occur if the ETN doesn't track the underlying index closely.

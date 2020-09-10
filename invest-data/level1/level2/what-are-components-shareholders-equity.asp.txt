@@ -1,0 +1,12 @@
+What are the Components of Shareholders ' Equity ? . Investors and corporate accounting professionals analyze shareholders ' equity to determine how a company is using and managing initial investments and to determine company valuation . Shareholders ' equity is calculated simply as total company assets minus total company liabilities . But there are several components that make up this equity calculation .
+--------------------------
+Outstanding Shares . The number of outstanding shares a company owns is an integral part of shareholders ' equity . It is the amount of company stock that has been sold to investors and not repurchased by the company . This figure includes the par value of common stock , as well as the par value of any preferred shares the company has sold .
+--------------------------
+Additional Paid - in Capital . Shareholders ' equity also includes the amount of money paid for shares of stock above the stated par value , known as additional paid - in capital . This figure is derived from the difference between the par value of common and preferred stock and the price each has sold for , as well as shares that were newly sold .
+--------------------------
+Retained Earnings . When a company retains income instead of paying it out as a dividend to stockholders , a positive balance in the company ’s retained earnings account is created . This figure is also included in shareholders ' equity and is typically the largest line item in this calculation .
+--------------------------
+Treasury Stock . The final item included in shareholders ' equity is treasury stock , which is the amount of shares that have been repurchased from investors by the company . This figure is subtracted from a company 's total equity , as it represents a smaller number of available shares for investors once it is repurchased .
+--------------------------
+Treasury Stock . Ultimately , shareholders ' equity is used to evaluate the overall worth of a company . But numerous components of the balance sheet calculation are needed to gain deeper insight into a company 's financial management .
+--------------------------
